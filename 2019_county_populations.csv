@@ -1,0 +1,3144 @@
+population,county,state
+55869,Autauga,Alabama
+223234,Baldwin,Alabama
+24686,Barbour,Alabama
+22394,Bibb,Alabama
+57826,Blount,Alabama
+10101,Bullock,Alabama
+19448,Butler,Alabama
+113605,Calhoun,Alabama
+33254,Chambers,Alabama
+26196,Cherokee,Alabama
+44428,Chilton,Alabama
+12589,Choctaw,Alabama
+23622,Clarke,Alabama
+13235,Clay,Alabama
+14910,Cleburne,Alabama
+52342,Coffee,Alabama
+55241,Colbert,Alabama
+12067,Conecuh,Alabama
+10663,Coosa,Alabama
+37049,Covington,Alabama
+13772,Crenshaw,Alabama
+83768,Cullman,Alabama
+49172,Dale,Alabama
+37196,Dallas,Alabama
+71513,DeKalb,Alabama
+81209,Elmore,Alabama
+36633,Escambia,Alabama
+102268,Etowah,Alabama
+16302,Fayette,Alabama
+31362,Franklin,Alabama
+26271,Geneva,Alabama
+8111,Greene,Alabama
+14651,Hale,Alabama
+17205,Henry,Alabama
+105882,Houston,Alabama
+51626,Jackson,Alabama
+658573,Jefferson,Alabama
+13805,Lamar,Alabama
+92729,Lauderdale,Alabama
+32924,Lawrence,Alabama
+164542,Lee,Alabama
+98915,Limestone,Alabama
+9726,Lowndes,Alabama
+18068,Macon,Alabama
+372909,Madison,Alabama
+18863,Marengo,Alabama
+29709,Marion,Alabama
+96774,Marshall,Alabama
+413210,Mobile,Alabama
+20733,Monroe,Alabama
+226486,Montgomery,Alabama
+119679,Morgan,Alabama
+8923,Perry,Alabama
+19930,Pickens,Alabama
+33114,Pike,Alabama
+22722,Randolph,Alabama
+57961,Russell,Alabama
+89512,St. Clair,Alabama
+217702,Shelby,Alabama
+12427,Sumter,Alabama
+79978,Talladega,Alabama
+40367,Tallapoosa,Alabama
+209355,Tuscaloosa,Alabama
+63521,Walker,Alabama
+16326,Washington,Alabama
+10373,Wilcox,Alabama
+23629,Winston,Alabama
+3337,"Aleutians East Borough, Alaska",
+5634,"Aleutians West Census Area, Alaska",
+288000,"Anchorage Municipality, Alaska",
+18386,"Bethel Census Area, Alaska",
+836,"Bristol Bay Borough, Alaska",
+2097,"Denali Borough, Alaska",
+4916,"Dillingham Census Area, Alaska",
+96849,"Fairbanks North Star Borough, Alaska",
+2530,"Haines Borough, Alaska",
+2148,"Hoonah-Angoon Census Area, Alaska",
+31974,"Juneau City and Borough, Alaska",
+58708,"Kenai Peninsula Borough, Alaska",
+13901,"Ketchikan Gateway Borough, Alaska",
+12998,"Kodiak Island Borough, Alaska",
+8314,"Kusilvak Census Area, Alaska",
+1592,"Lake and Peninsula Borough, Alaska",
+108317,"Matanuska-Susitna Borough, Alaska",
+10004,"Nome Census Area, Alaska",
+9832,"North Slope Borough, Alaska",
+7621,"Northwest Arctic Borough, Alaska",
+3266,"Petersburg Borough, Alaska",
+6203,"Prince of Wales-Hyder Census Area, Alaska",
+8493,"Sitka City and Borough, Alaska",
+1183,"Skagway Municipality, Alaska",
+6893,"Southeast Fairbanks Census Area, Alaska",
+9202,"Valdez-Cordova Census Area, Alaska",
+2502,"Wrangell City and Borough, Alaska",
+579,"Yakutat City and Borough, Alaska",
+5230,"Yukon-Koyukuk Census Area, Alaska",
+71887,Apache,Arizona
+125922,Cochise,Arizona
+143476,Coconino,Arizona
+54018,Gila,Arizona
+38837,Graham,Arizona
+9498,Greenlee,Arizona
+21108,La Paz,Arizona
+4485414,Maricopa,Arizona
+212181,Mohave,Arizona
+110924,Navajo,Arizona
+1047279,Pima,Arizona
+462789,Pinal,Arizona
+46498,Santa Cruz,Arizona
+235099,Yavapai,Arizona
+213787,Yuma,Arizona
+17486,Arkansas,Arkansas
+19657,Ashley,Arkansas
+41932,Baxter,Arkansas
+279141,Benton,Arkansas
+37432,Boone,Arkansas
+10763,Bradley,Arkansas
+5189,Calhoun,Arkansas
+28380,Carroll,Arkansas
+10118,Chicot,Arkansas
+22320,Clark,Arkansas
+14551,Clay,Arkansas
+24919,Cleburne,Arkansas
+7956,Cleveland,Arkansas
+23457,Columbia,Arkansas
+20846,Conway,Arkansas
+110332,Craighead,Arkansas
+63257,Crawford,Arkansas
+47955,Crittenden,Arkansas
+16419,Cross,Arkansas
+7009,Dallas,Arkansas
+11361,Desha,Arkansas
+18219,Drew,Arkansas
+126007,Faulkner,Arkansas
+17715,Franklin,Arkansas
+12477,Fulton,Arkansas
+99386,Garland,Arkansas
+18265,Grant,Arkansas
+45325,Greene,Arkansas
+21532,Hempstead,Arkansas
+33771,Hot Spring,Arkansas
+13202,Howard,Arkansas
+37825,Independence,Arkansas
+13629,Izard,Arkansas
+16719,Jackson,Arkansas
+66824,Jefferson,Arkansas
+26578,Johnson,Arkansas
+6624,Lafayette,Arkansas
+16406,Lawrence,Arkansas
+8857,Lee,Arkansas
+13024,Lincoln,Arkansas
+12259,Little River,Arkansas
+21466,Logan,Arkansas
+73309,Lonoke,Arkansas
+16576,Madison,Arkansas
+16694,Marion,Arkansas
+43257,Miller,Arkansas
+40651,Mississippi,Arkansas
+6701,Monroe,Arkansas
+8986,Montgomery,Arkansas
+8252,Nevada,Arkansas
+7753,Newton,Arkansas
+23382,Ouachita,Arkansas
+10455,Perry,Arkansas
+17782,Phillips,Arkansas
+10718,Pike,Arkansas
+23528,Poinsett,Arkansas
+19964,Polk,Arkansas
+64072,Pope,Arkansas
+8062,Prairie,Arkansas
+391911,Pulaski,Arkansas
+17958,Randolph,Arkansas
+24994,St. Francis,Arkansas
+122437,Saline,Arkansas
+10281,Scott,Arkansas
+7881,Searcy,Arkansas
+127827,Sebastian,Arkansas
+17007,Sevier,Arkansas
+17442,Sharp,Arkansas
+12506,Stone,Arkansas
+38682,Union,Arkansas
+16545,Van Buren,Arkansas
+239187,Washington,Arkansas
+78753,White,Arkansas
+6320,Woodruff,Arkansas
+21341,Yell,Arkansas
+1671329,Alameda,California
+1129,Alpine,California
+39752,Amador,California
+219186,Butte,California
+45905,Calaveras,California
+21547,Colusa,California
+1153526,Contra Costa,California
+27812,Del Norte,California
+192843,El Dorado,California
+999101,Fresno,California
+28393,Glenn,California
+135558,Humboldt,California
+181215,Imperial,California
+18039,Inyo,California
+900202,Kern,California
+152940,Kings,California
+64386,Lake,California
+30573,Lassen,California
+10039107,Los Angeles,California
+157327,Madera,California
+258826,Marin,California
+17203,Mariposa,California
+86749,Mendocino,California
+277680,Merced,California
+8841,Modoc,California
+14444,Mono,California
+434061,Monterey,California
+137744,Napa,California
+99755,Nevada,California
+3175692,Orange,California
+398329,Placer,California
+18807,Plumas,California
+2470546,Riverside,California
+1552058,Sacramento,California
+62808,San Benito,California
+2180085,San Bernardino,California
+3338330,San Diego,California
+881549,San Francisco,California
+762148,San Joaquin,California
+283111,San Luis Obispo,California
+766573,San Mateo,California
+446499,Santa Barbara,California
+1927852,Santa Clara,California
+273213,Santa Cruz,California
+180080,Shasta,California
+3005,Sierra,California
+43539,Siskiyou,California
+447643,Solano,California
+494336,Sonoma,California
+550660,Stanislaus,California
+96971,Sutter,California
+65084,Tehama,California
+12285,Trinity,California
+466195,Tulare,California
+54478,Tuolumne,California
+846006,Ventura,California
+220500,Yolo,California
+78668,Yuba,California
+517421,Adams,Colorado
+16233,Alamosa,Colorado
+656590,Arapahoe,Colorado
+14029,Archuleta,Colorado
+3581,Baca,Colorado
+5577,Bent,Colorado
+326196,Boulder,Colorado
+70465,Broomfield,Colorado
+20356,Chaffee,Colorado
+1831,Cheyenne,Colorado
+9700,Clear Creek,Colorado
+8205,Conejos,Colorado
+3887,Costilla,Colorado
+6061,Crowley,Colorado
+5068,Custer,Colorado
+31162,Delta,Colorado
+727211,Denver,Colorado
+2055,Dolores,Colorado
+351154,Douglas,Colorado
+55127,Eagle,Colorado
+26729,Elbert,Colorado
+720403,El Paso,Colorado
+47839,Fremont,Colorado
+60061,Garfield,Colorado
+6243,Gilpin,Colorado
+15734,Grand,Colorado
+17462,Gunnison,Colorado
+820,Hinsdale,Colorado
+6897,Huerfano,Colorado
+1392,Jackson,Colorado
+582881,Jefferson,Colorado
+1406,Kiowa,Colorado
+7097,Kit Carson,Colorado
+8127,Lake,Colorado
+56221,La Plata,Colorado
+356899,Larimer,Colorado
+14506,Las Animas,Colorado
+5701,Lincoln,Colorado
+22409,Logan,Colorado
+154210,Mesa,Colorado
+769,Mineral,Colorado
+13283,Moffat,Colorado
+26183,Montezuma,Colorado
+42758,Montrose,Colorado
+29068,Morgan,Colorado
+18278,Otero,Colorado
+4952,Ouray,Colorado
+18845,Park,Colorado
+4265,Phillips,Colorado
+17767,Pitkin,Colorado
+12172,Prowers,Colorado
+168424,Pueblo,Colorado
+6324,Rio Blanco,Colorado
+11267,Rio Grande,Colorado
+25638,Routt,Colorado
+6824,Saguache,Colorado
+728,San Juan,Colorado
+8179,San Miguel,Colorado
+2248,Sedgwick,Colorado
+31011,Summit,Colorado
+25388,Teller,Colorado
+4908,Washington,Colorado
+324492,Weld,Colorado
+10019,Yuma,Colorado
+943332,Fairfield,Connecticut
+891720,Hartford,Connecticut
+180333,Litchfield,Connecticut
+162436,Middlesex,Connecticut
+854757,New Haven,Connecticut
+265206,New London,Connecticut
+150721,Tolland,Connecticut
+116782,Windham,Connecticut
+180786,Kent,Delaware
+558753,New Castle,Delaware
+234225,Sussex,Delaware
+705749,"District of Columbia, District of Columbia",
+269043,Alachua,Florida
+29210,Baker,Florida
+174705,Bay,Florida
+28201,Bradford,Florida
+601942,Brevard,Florida
+1952778,Broward,Florida
+14105,Calhoun,Florida
+188910,Charlotte,Florida
+149657,Citrus,Florida
+219252,Clay,Florida
+384902,Collier,Florida
+71686,Columbia,Florida
+38001,DeSoto,Florida
+16826,Dixie,Florida
+957755,Duval,Florida
+318316,Escambia,Florida
+115081,Flagler,Florida
+12125,Franklin,Florida
+45660,Gadsden,Florida
+18582,Gilchrist,Florida
+13811,Glades,Florida
+13639,Gulf,Florida
+14428,Hamilton,Florida
+26937,Hardee,Florida
+42022,Hendry,Florida
+193920,Hernando,Florida
+106221,Highlands,Florida
+1471968,Hillsborough,Florida
+19617,Holmes,Florida
+159923,Indian River,Florida
+46414,Jackson,Florida
+14246,Jefferson,Florida
+8422,Lafayette,Florida
+367118,Lake,Florida
+770577,Lee,Florida
+293582,Leon,Florida
+41503,Levy,Florida
+8354,Liberty,Florida
+18493,Madison,Florida
+403253,Manatee,Florida
+365579,Marion,Florida
+161000,Martin,Florida
+2716940,Miami-Dade,Florida
+74228,Monroe,Florida
+88625,Nassau,Florida
+210738,Okaloosa,Florida
+42168,Okeechobee,Florida
+1393452,Orange,Florida
+375751,Osceola,Florida
+1496770,Palm Beach,Florida
+553947,Pasco,Florida
+974996,Pinellas,Florida
+724777,Polk,Florida
+74521,Putnam,Florida
+264672,St. Johns,Florida
+328297,St. Lucie,Florida
+184313,Santa Rosa,Florida
+433742,Sarasota,Florida
+471826,Seminole,Florida
+132420,Sumter,Florida
+44417,Suwannee,Florida
+21569,Taylor,Florida
+15237,Union,Florida
+553284,Volusia,Florida
+33739,Wakulla,Florida
+74071,Walton,Florida
+25473,Washington,Florida
+18386,Appling,Georgia
+8165,Atkinson,Georgia
+11164,Bacon,Georgia
+3038,Baker,Georgia
+44890,Baldwin,Georgia
+19234,Banks,Georgia
+83240,Barrow,Georgia
+107738,Bartow,Georgia
+16700,Ben Hill,Georgia
+19397,Berrien,Georgia
+153159,Bibb,Georgia
+12873,Bleckley,Georgia
+19109,Brantley,Georgia
+15457,Brooks,Georgia
+39627,Bryan,Georgia
+79608,Bulloch,Georgia
+22383,Burke,Georgia
+24936,Butts,Georgia
+6189,Calhoun,Georgia
+54666,Camden,Georgia
+10803,Candler,Georgia
+119992,Carroll,Georgia
+67580,Catoosa,Georgia
+13392,Charlton,Georgia
+289430,Chatham,Georgia
+10907,Chattahoochee,Georgia
+24789,Chattooga,Georgia
+258773,Cherokee,Georgia
+128331,Clarke,Georgia
+2834,Clay,Georgia
+292256,Clayton,Georgia
+6618,Clinch,Georgia
+760141,Cobb,Georgia
+43273,Coffee,Georgia
+45600,Colquitt,Georgia
+156714,Columbia,Georgia
+17270,Cook,Georgia
+148509,Coweta,Georgia
+12404,Crawford,Georgia
+22372,Crisp,Georgia
+16116,Dade,Georgia
+26108,Dawson,Georgia
+26404,Decatur,Georgia
+759297,DeKalb,Georgia
+20605,Dodge,Georgia
+13390,Dooly,Georgia
+87956,Dougherty,Georgia
+146343,Douglas,Georgia
+10190,Early,Georgia
+4006,Echols,Georgia
+64296,Effingham,Georgia
+19194,Elbert,Georgia
+22646,Emanuel,Georgia
+10654,Evans,Georgia
+26188,Fannin,Georgia
+114421,Fayette,Georgia
+98498,Floyd,Georgia
+244252,Forsyth,Georgia
+23349,Franklin,Georgia
+1063937,Fulton,Georgia
+31369,Gilmer,Georgia
+2971,Glascock,Georgia
+85292,Glynn,Georgia
+57963,Gordon,Georgia
+24633,Grady,Georgia
+18324,Greene,Georgia
+936250,Gwinnett,Georgia
+45328,Habersham,Georgia
+204441,Hall,Georgia
+8457,Hancock,Georgia
+29792,Haralson,Georgia
+35236,Harris,Georgia
+26205,Hart,Georgia
+11923,Heard,Georgia
+234561,Henry,Georgia
+157863,Houston,Georgia
+9416,Irwin,Georgia
+72977,Jackson,Georgia
+14219,Jasper,Georgia
+15115,Jeff Davis,Georgia
+15362,Jefferson,Georgia
+8676,Jenkins,Georgia
+9643,Johnson,Georgia
+28735,Jones,Georgia
+19077,Lamar,Georgia
+10423,Lanier,Georgia
+47546,Laurens,Georgia
+29992,Lee,Georgia
+61435,Liberty,Georgia
+7921,Lincoln,Georgia
+19559,Long,Georgia
+117406,Lowndes,Georgia
+33610,Lumpkin,Georgia
+21312,McDuffie,Georgia
+14378,McIntosh,Georgia
+12947,Macon,Georgia
+29880,Madison,Georgia
+8359,Marion,Georgia
+21167,Meriwether,Georgia
+5718,Miller,Georgia
+21863,Mitchell,Georgia
+27578,Monroe,Georgia
+9172,Montgomery,Georgia
+19276,Morgan,Georgia
+40096,Murray,Georgia
+195769,Muscogee,Georgia
+111744,Newton,Georgia
+40280,Oconee,Georgia
+15259,Oglethorpe,Georgia
+168667,Paulding,Georgia
+27546,Peach,Georgia
+32591,Pickens,Georgia
+19465,Pierce,Georgia
+18962,Pike,Georgia
+42613,Polk,Georgia
+11137,Pulaski,Georgia
+22119,Putnam,Georgia
+2299,Quitman,Georgia
+17137,Rabun,Georgia
+6778,Randolph,Georgia
+202518,Richmond,Georgia
+90896,Rockdale,Georgia
+5257,Schley,Georgia
+13966,Screven,Georgia
+8090,Seminole,Georgia
+66703,Spalding,Georgia
+25925,Stephens,Georgia
+6621,Stewart,Georgia
+29524,Sumter,Georgia
+6195,Talbot,Georgia
+1537,Taliaferro,Georgia
+25286,Tattnall,Georgia
+8020,Taylor,Georgia
+15860,Telfair,Georgia
+8531,Terrell,Georgia
+44451,Thomas,Georgia
+40644,Tift,Georgia
+26830,Toombs,Georgia
+12037,Towns,Georgia
+6901,Treutlen,Georgia
+69922,Troup,Georgia
+7985,Turner,Georgia
+8120,Twiggs,Georgia
+24511,Union,Georgia
+26320,Upson,Georgia
+69761,Walker,Georgia
+94593,Walton,Georgia
+35734,Ware,Georgia
+5254,Warren,Georgia
+20374,Washington,Georgia
+29927,Wayne,Georgia
+2607,Webster,Georgia
+7855,Wheeler,Georgia
+30798,White,Georgia
+104628,Whitfield,Georgia
+8635,Wilcox,Georgia
+9777,Wilkes,Georgia
+8954,Wilkinson,Georgia
+20247,Worth,Georgia
+201513,Hawaii,Hawaii
+974563,Honolulu,Hawaii
+86,Kalawao,Hawaii
+72293,Kauai,Hawaii
+167417,Maui,Hawaii
+481587,Ada,Idaho
+4294,Adams,Idaho
+87808,Bannock,Idaho
+6125,Bear Lake,Idaho
+9298,Benewah,Idaho
+46811,Bingham,Idaho
+23021,Blaine,Idaho
+7831,Boise,Idaho
+45739,Bonner,Idaho
+119062,Bonneville,Idaho
+12245,Boundary,Idaho
+2597,Butte,Idaho
+1106,Camas,Idaho
+229849,Canyon,Idaho
+7155,Caribou,Idaho
+24030,Cassia,Idaho
+845,Clark,Idaho
+8756,Clearwater,Idaho
+4315,Custer,Idaho
+27511,Elmore,Idaho
+13876,Franklin,Idaho
+13099,Fremont,Idaho
+18112,Gem,Idaho
+15179,Gooding,Idaho
+16667,Idaho,Idaho
+29871,Jefferson,Idaho
+24412,Jerome,Idaho
+165697,Kootenai,Idaho
+40108,Latah,Idaho
+8027,Lemhi,Idaho
+3838,Lewis,Idaho
+5366,Lincoln,Idaho
+39907,Madison,Idaho
+21039,Minidoka,Idaho
+40408,Nez Perce,Idaho
+4531,Oneida,Idaho
+11823,Owyhee,Idaho
+23951,Payette,Idaho
+7681,Power,Idaho
+12882,Shoshone,Idaho
+12142,Teton,Idaho
+86878,Twin Falls,Idaho
+11392,Valley,Idaho
+10194,Washington,Idaho
+65435,Adams,Illinois
+5761,Alexander,Illinois
+16426,Bond,Illinois
+53544,Boone,Illinois
+6578,Brown,Illinois
+32628,Bureau,Illinois
+4739,Calhoun,Illinois
+14305,Carroll,Illinois
+12147,Cass,Illinois
+209689,Champaign,Illinois
+32304,Christian,Illinois
+15441,Clark,Illinois
+13184,Clay,Illinois
+37562,Clinton,Illinois
+50621,Coles,Illinois
+5150233,Cook,Illinois
+18667,Crawford,Illinois
+10766,Cumberland,Illinois
+104897,DeKalb,Illinois
+15638,De Witt,Illinois
+19465,Douglas,Illinois
+922921,DuPage,Illinois
+17161,Edgar,Illinois
+6395,Edwards,Illinois
+34008,Effingham,Illinois
+21336,Fayette,Illinois
+12961,Ford,Illinois
+38469,Franklin,Illinois
+34340,Fulton,Illinois
+4828,Gallatin,Illinois
+12969,Greene,Illinois
+51054,Grundy,Illinois
+8116,Hamilton,Illinois
+17708,Hancock,Illinois
+3821,Hardin,Illinois
+6646,Henderson,Illinois
+48913,Henry,Illinois
+27114,Iroquois,Illinois
+56750,Jackson,Illinois
+9610,Jasper,Illinois
+37684,Jefferson,Illinois
+21773,Jersey,Illinois
+21235,Jo Daviess,Illinois
+12417,Johnson,Illinois
+532403,Kane,Illinois
+109862,Kankakee,Illinois
+128990,Kendall,Illinois
+49699,Knox,Illinois
+696535,Lake,Illinois
+108669,LaSalle,Illinois
+15678,Lawrence,Illinois
+34096,Lee,Illinois
+35648,Livingston,Illinois
+28618,Logan,Illinois
+29682,McDonough,Illinois
+307774,McHenry,Illinois
+171517,McLean,Illinois
+104009,Macon,Illinois
+44926,Macoupin,Illinois
+262966,Madison,Illinois
+37205,Marion,Illinois
+11438,Marshall,Illinois
+13359,Mason,Illinois
+13772,Massac,Illinois
+12196,Menard,Illinois
+15437,Mercer,Illinois
+34637,Monroe,Illinois
+28414,Montgomery,Illinois
+33658,Morgan,Illinois
+14501,Moultrie,Illinois
+50643,Ogle,Illinois
+179179,Peoria,Illinois
+20916,Perry,Illinois
+16344,Piatt,Illinois
+15561,Pike,Illinois
+4177,Pope,Illinois
+5335,Pulaski,Illinois
+5739,Putnam,Illinois
+31782,Randolph,Illinois
+15513,Richland,Illinois
+141879,Rock Island,Illinois
+259686,St. Clair,Illinois
+23491,Saline,Illinois
+194672,Sangamon,Illinois
+6768,Schuyler,Illinois
+4951,Scott,Illinois
+21634,Shelby,Illinois
+5342,Stark,Illinois
+44498,Stephenson,Illinois
+131803,Tazewell,Illinois
+16653,Union,Illinois
+75758,Vermilion,Illinois
+11520,Wabash,Illinois
+16844,Warren,Illinois
+13887,Washington,Illinois
+16215,Wayne,Illinois
+13537,White,Illinois
+55175,Whiteside,Illinois
+690743,Will,Illinois
+66597,Williamson,Illinois
+282572,Winnebago,Illinois
+38459,Woodford,Illinois
+35777,Adams,Indiana
+379299,Allen,Indiana
+83779,Bartholomew,Indiana
+8748,Benton,Indiana
+11758,Blackford,Indiana
+67843,Boone,Indiana
+15092,Brown,Indiana
+20257,Carroll,Indiana
+37689,Cass,Indiana
+118302,Clark,Indiana
+26225,Clay,Indiana
+32399,Clinton,Indiana
+10577,Crawford,Indiana
+33351,Daviess,Indiana
+49458,Dearborn,Indiana
+26559,Decatur,Indiana
+43475,DeKalb,Indiana
+114135,Delaware,Indiana
+42736,Dubois,Indiana
+206341,Elkhart,Indiana
+23102,Fayette,Indiana
+78522,Floyd,Indiana
+16346,Fountain,Indiana
+22758,Franklin,Indiana
+19974,Fulton,Indiana
+33659,Gibson,Indiana
+65769,Grant,Indiana
+31922,Greene,Indiana
+338011,Hamilton,Indiana
+78168,Hancock,Indiana
+40515,Harrison,Indiana
+170311,Hendricks,Indiana
+47972,Henry,Indiana
+82544,Howard,Indiana
+36520,Huntington,Indiana
+44231,Jackson,Indiana
+33562,Jasper,Indiana
+20436,Jay,Indiana
+32308,Jefferson,Indiana
+27735,Jennings,Indiana
+158167,Johnson,Indiana
+36594,Knox,Indiana
+79456,Kosciusko,Indiana
+39614,LaGrange,Indiana
+485493,Lake,Indiana
+109888,LaPorte,Indiana
+45370,Lawrence,Indiana
+129569,Madison,Indiana
+964582,Marion,Indiana
+46258,Marshall,Indiana
+10255,Martin,Indiana
+35516,Miami,Indiana
+148431,Monroe,Indiana
+38338,Montgomery,Indiana
+70489,Morgan,Indiana
+13984,Newton,Indiana
+47744,Noble,Indiana
+5875,Ohio,Indiana
+19646,Orange,Indiana
+20799,Owen,Indiana
+16937,Parke,Indiana
+19169,Perry,Indiana
+12389,Pike,Indiana
+170389,Porter,Indiana
+25427,Posey,Indiana
+12353,Pulaski,Indiana
+37576,Putnam,Indiana
+24665,Randolph,Indiana
+28324,Ripley,Indiana
+16581,Rush,Indiana
+271826,St. Joseph,Indiana
+23873,Scott,Indiana
+44729,Shelby,Indiana
+20277,Spencer,Indiana
+22995,Starke,Indiana
+34594,Steuben,Indiana
+20669,Sullivan,Indiana
+10751,Switzerland,Indiana
+195732,Tippecanoe,Indiana
+15148,Tipton,Indiana
+7054,Union,Indiana
+181451,Vanderburgh,Indiana
+15498,Vermillion,Indiana
+107038,Vigo,Indiana
+30996,Wabash,Indiana
+8265,Warren,Indiana
+62998,Warrick,Indiana
+28036,Washington,Indiana
+65884,Wayne,Indiana
+28296,Wells,Indiana
+24102,White,Indiana
+33964,Whitley,Indiana
+7152,Adair,Iowa
+3602,Adams,Iowa
+13687,Allamakee,Iowa
+12426,Appanoose,Iowa
+5496,Audubon,Iowa
+25645,Benton,Iowa
+131228,Black Hawk,Iowa
+26234,Boone,Iowa
+25062,Bremer,Iowa
+21175,Buchanan,Iowa
+19620,Buena Vista,Iowa
+14439,Butler,Iowa
+9668,Calhoun,Iowa
+20165,Carroll,Iowa
+12836,Cass,Iowa
+18627,Cedar,Iowa
+42450,Cerro Gordo,Iowa
+11235,Cherokee,Iowa
+11933,Chickasaw,Iowa
+9395,Clarke,Iowa
+16016,Clay,Iowa
+17549,Clayton,Iowa
+46429,Clinton,Iowa
+16820,Crawford,Iowa
+93453,Dallas,Iowa
+9000,Davis,Iowa
+7870,Decatur,Iowa
+17011,Delaware,Iowa
+38967,Des Moines,Iowa
+17258,Dickinson,Iowa
+97311,Dubuque,Iowa
+9208,Emmet,Iowa
+19650,Fayette,Iowa
+15642,Floyd,Iowa
+10070,Franklin,Iowa
+6960,Fremont,Iowa
+8888,Greene,Iowa
+12232,Grundy,Iowa
+10689,Guthrie,Iowa
+14773,Hamilton,Iowa
+10630,Hancock,Iowa
+16846,Hardin,Iowa
+14049,Harrison,Iowa
+19954,Henry,Iowa
+9158,Howard,Iowa
+9558,Humboldt,Iowa
+6860,Ida,Iowa
+16184,Iowa,Iowa
+19439,Jackson,Iowa
+37185,Jasper,Iowa
+18295,Jefferson,Iowa
+151140,Johnson,Iowa
+20681,Jones,Iowa
+10246,Keokuk,Iowa
+14813,Kossuth,Iowa
+33657,Lee,Iowa
+226706,Linn,Iowa
+11035,Louisa,Iowa
+8600,Lucas,Iowa
+11755,Lyon,Iowa
+16338,Madison,Iowa
+22095,Mahaska,Iowa
+33253,Marion,Iowa
+39369,Marshall,Iowa
+15109,Mills,Iowa
+10586,Mitchell,Iowa
+8615,Monona,Iowa
+7707,Monroe,Iowa
+9917,Montgomery,Iowa
+42664,Muscatine,Iowa
+13753,O'Brien,Iowa
+5958,Osceola,Iowa
+15107,Page,Iowa
+8886,Palo Alto,Iowa
+25177,Plymouth,Iowa
+6619,Pocahontas,Iowa
+490161,Polk,Iowa
+93206,Pottawattamie,Iowa
+18504,Poweshiek,Iowa
+4894,Ringgold,Iowa
+9721,Sac,Iowa
+172943,Scott,Iowa
+11454,Shelby,Iowa
+34855,Sioux,Iowa
+97117,Story,Iowa
+16854,Tama,Iowa
+6121,Taylor,Iowa
+12241,Union,Iowa
+7044,Van Buren,Iowa
+34969,Wapello,Iowa
+51466,Warren,Iowa
+21965,Washington,Iowa
+6441,Wayne,Iowa
+35904,Webster,Iowa
+10354,Winnebago,Iowa
+19991,Winneshiek,Iowa
+103107,Woodbury,Iowa
+7381,Worth,Iowa
+12562,Wright,Iowa
+12369,Allen,Kansas
+7858,Anderson,Kansas
+16073,Atchison,Kansas
+4427,Barber,Kansas
+25779,Barton,Kansas
+14534,Bourbon,Kansas
+9564,Brown,Kansas
+66911,Butler,Kansas
+2648,Chase,Kansas
+3250,Chautauqua,Kansas
+19939,Cherokee,Kansas
+2657,Cheyenne,Kansas
+1994,Clark,Kansas
+8002,Clay,Kansas
+8786,Cloud,Kansas
+8179,Coffey,Kansas
+1700,Comanche,Kansas
+34908,Cowley,Kansas
+38818,Crawford,Kansas
+2827,Decatur,Kansas
+18466,Dickinson,Kansas
+7600,Doniphan,Kansas
+122259,Douglas,Kansas
+2798,Edwards,Kansas
+2530,Elk,Kansas
+28553,Ellis,Kansas
+6102,Ellsworth,Kansas
+36467,Finney,Kansas
+33619,Ford,Kansas
+25544,Franklin,Kansas
+31670,Geary,Kansas
+2636,Gove,Kansas
+2482,Graham,Kansas
+7150,Grant,Kansas
+5988,Gray,Kansas
+1232,Greeley,Kansas
+5982,Greenwood,Kansas
+2539,Hamilton,Kansas
+5436,Harper,Kansas
+34429,Harvey,Kansas
+3968,Haskell,Kansas
+1794,Hodgeman,Kansas
+13171,Jackson,Kansas
+19043,Jefferson,Kansas
+2879,Jewell,Kansas
+602401,Johnson,Kansas
+3838,Kearny,Kansas
+7152,Kingman,Kansas
+2475,Kiowa,Kansas
+19618,Labette,Kansas
+1535,Lane,Kansas
+81758,Leavenworth,Kansas
+2962,Lincoln,Kansas
+9703,Linn,Kansas
+2794,Logan,Kansas
+33195,Lyon,Kansas
+28542,McPherson,Kansas
+11884,Marion,Kansas
+9707,Marshall,Kansas
+4033,Meade,Kansas
+34237,Miami,Kansas
+5979,Mitchell,Kansas
+31829,Montgomery,Kansas
+5620,Morris,Kansas
+2587,Morton,Kansas
+10231,Nemaha,Kansas
+16007,Neosho,Kansas
+2750,Ness,Kansas
+5361,Norton,Kansas
+15949,Osage,Kansas
+3421,Osborne,Kansas
+5704,Ottawa,Kansas
+6414,Pawnee,Kansas
+5234,Phillips,Kansas
+24383,Pottawatomie,Kansas
+9164,Pratt,Kansas
+2530,Rawlins,Kansas
+61998,Reno,Kansas
+4636,Republic,Kansas
+9537,Rice,Kansas
+74232,Riley,Kansas
+4920,Rooks,Kansas
+3036,Rush,Kansas
+6856,Russell,Kansas
+54224,Saline,Kansas
+4823,Scott,Kansas
+516042,Sedgwick,Kansas
+21428,Seward,Kansas
+176875,Shawnee,Kansas
+2521,Sheridan,Kansas
+5917,Sherman,Kansas
+3583,Smith,Kansas
+4156,Stafford,Kansas
+2006,Stanton,Kansas
+5485,Stevens,Kansas
+22836,Sumner,Kansas
+7777,Thomas,Kansas
+2803,Trego,Kansas
+6931,Wabaunsee,Kansas
+1518,Wallace,Kansas
+5406,Washington,Kansas
+2119,Wichita,Kansas
+8525,Wilson,Kansas
+3138,Woodson,Kansas
+165429,Wyandotte,Kansas
+19202,Adair,Kentucky
+21315,Allen,Kentucky
+22747,Anderson,Kentucky
+7888,Ballard,Kentucky
+44249,Barren,Kentucky
+12500,Bath,Kentucky
+26032,Bell,Kentucky
+133581,Boone,Kentucky
+19788,Bourbon,Kentucky
+46718,Boyd,Kentucky
+30060,Boyle,Kentucky
+8303,Bracken,Kentucky
+12630,Breathitt,Kentucky
+20477,Breckinridge,Kentucky
+81676,Bullitt,Kentucky
+12879,Butler,Kentucky
+12747,Caldwell,Kentucky
+39001,Calloway,Kentucky
+93584,Campbell,Kentucky
+4760,Carlisle,Kentucky
+10631,Carroll,Kentucky
+26797,Carter,Kentucky
+16159,Casey,Kentucky
+70461,Christian,Kentucky
+36263,Clark,Kentucky
+19901,Clay,Kentucky
+10218,Clinton,Kentucky
+8806,Crittenden,Kentucky
+6614,Cumberland,Kentucky
+101511,Daviess,Kentucky
+12150,Edmonson,Kentucky
+7517,Elliott,Kentucky
+14106,Estill,Kentucky
+323152,Fayette,Kentucky
+14581,Fleming,Kentucky
+35589,Floyd,Kentucky
+50991,Franklin,Kentucky
+5969,Fulton,Kentucky
+8869,Gallatin,Kentucky
+17666,Garrard,Kentucky
+25069,Grant,Kentucky
+37266,Graves,Kentucky
+26427,Grayson,Kentucky
+10941,Green,Kentucky
+35098,Greenup,Kentucky
+8722,Hancock,Kentucky
+110958,Hardin,Kentucky
+26010,Harlan,Kentucky
+18886,Harrison,Kentucky
+19035,Hart,Kentucky
+45210,Henderson,Kentucky
+16126,Henry,Kentucky
+4380,Hickman,Kentucky
+44686,Hopkins,Kentucky
+13329,Jackson,Kentucky
+766757,Jefferson,Kentucky
+54115,Jessamine,Kentucky
+22188,Johnson,Kentucky
+166998,Kenton,Kentucky
+14806,Knott,Kentucky
+31145,Knox,Kentucky
+14398,Larue,Kentucky
+60813,Laurel,Kentucky
+15317,Lawrence,Kentucky
+7403,Lee,Kentucky
+9877,Leslie,Kentucky
+21553,Letcher,Kentucky
+13275,Lewis,Kentucky
+24549,Lincoln,Kentucky
+9194,Livingston,Kentucky
+27102,Logan,Kentucky
+8210,Lyon,Kentucky
+65418,McCracken,Kentucky
+17231,McCreary,Kentucky
+9207,McLean,Kentucky
+92987,Madison,Kentucky
+12161,Magoffin,Kentucky
+19273,Marion,Kentucky
+31100,Marshall,Kentucky
+11195,Martin,Kentucky
+17070,Mason,Kentucky
+28572,Meade,Kentucky
+6489,Menifee,Kentucky
+21933,Mercer,Kentucky
+10071,Metcalfe,Kentucky
+10650,Monroe,Kentucky
+28157,Montgomery,Kentucky
+13309,Morgan,Kentucky
+30622,Muhlenberg,Kentucky
+46233,Nelson,Kentucky
+7269,Nicholas,Kentucky
+23994,Ohio,Kentucky
+66799,Oldham,Kentucky
+10901,Owen,Kentucky
+4415,Owsley,Kentucky
+14590,Pendleton,Kentucky
+25758,Perry,Kentucky
+57876,Pike,Kentucky
+12359,Powell,Kentucky
+64979,Pulaski,Kentucky
+2108,Robertson,Kentucky
+16695,Rockcastle,Kentucky
+24460,Rowan,Kentucky
+17923,Russell,Kentucky
+57004,Scott,Kentucky
+49024,Shelby,Kentucky
+18572,Simpson,Kentucky
+19351,Spencer,Kentucky
+25769,Taylor,Kentucky
+12294,Todd,Kentucky
+14651,Trigg,Kentucky
+8471,Trimble,Kentucky
+14381,Union,Kentucky
+132896,Warren,Kentucky
+12095,Washington,Kentucky
+20333,Wayne,Kentucky
+12942,Webster,Kentucky
+36264,Whitley,Kentucky
+7157,Wolfe,Kentucky
+26734,Woodford,Kentucky
+62045,"Acadia Parish, Louisiana",
+25627,"Allen Parish, Louisiana",
+126604,"Ascension Parish, Louisiana",
+21891,"Assumption Parish, Louisiana",
+40144,"Avoyelles Parish, Louisiana",
+37497,"Beauregard Parish, Louisiana",
+13241,"Bienville Parish, Louisiana",
+127039,"Bossier Parish, Louisiana",
+240204,"Caddo Parish, Louisiana",
+203436,"Calcasieu Parish, Louisiana",
+9918,"Caldwell Parish, Louisiana",
+6973,"Cameron Parish, Louisiana",
+9494,"Catahoula Parish, Louisiana",
+15670,"Claiborne Parish, Louisiana",
+19259,"Concordia Parish, Louisiana",
+27463,"De Soto Parish, Louisiana",
+440059,"East Baton Rouge Parish, Louisiana",
+6861,"East Carroll Parish, Louisiana",
+19135,"East Feliciana Parish, Louisiana",
+33395,"Evangeline Parish, Louisiana",
+20015,"Franklin Parish, Louisiana",
+22389,"Grant Parish, Louisiana",
+69830,"Iberia Parish, Louisiana",
+32511,"Iberville Parish, Louisiana",
+15744,"Jackson Parish, Louisiana",
+432493,"Jefferson Parish, Louisiana",
+31368,"Jefferson Davis Parish, Louisiana",
+244390,"Lafayette Parish, Louisiana",
+97614,"Lafourche Parish, Louisiana",
+14892,"LaSalle Parish, Louisiana",
+46742,"Lincoln Parish, Louisiana",
+140789,"Livingston Parish, Louisiana",
+10951,"Madison Parish, Louisiana",
+24874,"Morehouse Parish, Louisiana",
+38158,"Natchitoches Parish, Louisiana",
+390144,"Orleans Parish, Louisiana",
+153279,"Ouachita Parish, Louisiana",
+23197,"Plaquemines Parish, Louisiana",
+21730,"Pointe Coupee Parish, Louisiana",
+129648,"Rapides Parish, Louisiana",
+8442,"Red River Parish, Louisiana",
+20122,"Richland Parish, Louisiana",
+23884,"Sabine Parish, Louisiana",
+47244,"St. Bernard Parish, Louisiana",
+53100,"St. Charles Parish, Louisiana",
+10132,"St. Helena Parish, Louisiana",
+21096,"St. James Parish, Louisiana",
+42837,"St. John the Baptist Parish, Louisiana",
+82124,"St. Landry Parish, Louisiana",
+53431,"St. Martin Parish, Louisiana",
+49348,"St. Mary Parish, Louisiana",
+260419,"St. Tammany Parish, Louisiana",
+134758,"Tangipahoa Parish, Louisiana",
+4334,"Tensas Parish, Louisiana",
+110461,"Terrebonne Parish, Louisiana",
+22108,"Union Parish, Louisiana",
+59511,"Vermilion Parish, Louisiana",
+47429,"Vernon Parish, Louisiana",
+46194,"Washington Parish, Louisiana",
+38340,"Webster Parish, Louisiana",
+26465,"West Baton Rouge Parish, Louisiana",
+10830,"West Carroll Parish, Louisiana",
+15568,"West Feliciana Parish, Louisiana",
+13904,"Winn Parish, Louisiana",
+108277,Androscoggin,Maine
+67055,Aroostook,Maine
+295003,Cumberland,Maine
+30199,Franklin,Maine
+54987,Hancock,Maine
+122302,Kennebec,Maine
+39772,Knox,Maine
+34634,Lincoln,Maine
+57975,Oxford,Maine
+152148,Penobscot,Maine
+16785,Piscataquis,Maine
+35856,Sagadahoc,Maine
+50484,Somerset,Maine
+39715,Waldo,Maine
+31379,Washington,Maine
+207641,York,Maine
+70416,Allegany,Maryland
+579234,Anne Arundel,Maryland
+827370,Baltimore,Maryland
+92525,Calvert,Maryland
+33406,Caroline,Maryland
+168447,Carroll,Maryland
+102855,Cecil,Maryland
+163257,Charles,Maryland
+31929,Dorchester,Maryland
+259547,Frederick,Maryland
+29014,Garrett,Maryland
+255441,Harford,Maryland
+325690,Howard,Maryland
+19422,Kent,Maryland
+1050688,Montgomery,Maryland
+909327,Prince George's,Maryland
+50381,Queen Anne's,Maryland
+113510,St. Mary's,Maryland
+25616,Somerset,Maryland
+37181,Talbot,Maryland
+151049,Washington,Maryland
+103609,Wicomico,Maryland
+52276,Worcester,Maryland
+593490,"Baltimore city, Maryland",
+212990,Barnstable,Massachusetts
+124944,Berkshire,Massachusetts
+565217,Bristol,Massachusetts
+17332,Dukes,Massachusetts
+789034,Essex,Massachusetts
+70180,Franklin,Massachusetts
+466372,Hampden,Massachusetts
+160830,Hampshire,Massachusetts
+1611699,Middlesex,Massachusetts
+11399,Nantucket,Massachusetts
+706775,Norfolk,Massachusetts
+521202,Plymouth,Massachusetts
+803907,Suffolk,Massachusetts
+830622,Worcester,Massachusetts
+10405,Alcona,Michigan
+9108,Alger,Michigan
+118081,Allegan,Michigan
+28405,Alpena,Michigan
+23324,Antrim,Michigan
+14883,Arenac,Michigan
+8209,Baraga,Michigan
+61550,Barry,Michigan
+103126,Bay,Michigan
+17766,Benzie,Michigan
+153401,Berrien,Michigan
+43517,Branch,Michigan
+134159,Calhoun,Michigan
+51787,Cass,Michigan
+26143,Charlevoix,Michigan
+25276,Cheboygan,Michigan
+37349,Chippewa,Michigan
+30950,Clare,Michigan
+79595,Clinton,Michigan
+14029,Crawford,Michigan
+35784,Delta,Michigan
+25239,Dickinson,Michigan
+110268,Eaton,Michigan
+33415,Emmet,Michigan
+405813,Genesee,Michigan
+25449,Gladwin,Michigan
+13975,Gogebic,Michigan
+93088,Grand Traverse,Michigan
+40711,Gratiot,Michigan
+45605,Hillsdale,Michigan
+35684,Houghton,Michigan
+30981,Huron,Michigan
+292406,Ingham,Michigan
+64697,Ionia,Michigan
+25127,Iosco,Michigan
+11066,Iron,Michigan
+69872,Isabella,Michigan
+158510,Jackson,Michigan
+265066,Kalamazoo,Michigan
+18038,Kalkaska,Michigan
+656955,Kent,Michigan
+2116,Keweenaw,Michigan
+11853,Lake,Michigan
+87607,Lapeer,Michigan
+21761,Leelanau,Michigan
+98451,Lenawee,Michigan
+191995,Livingston,Michigan
+6229,Luce,Michigan
+10799,Mackinac,Michigan
+873972,Macomb,Michigan
+24558,Manistee,Michigan
+66699,Marquette,Michigan
+29144,Mason,Michigan
+43453,Mecosta,Michigan
+22780,Menominee,Michigan
+83156,Midland,Michigan
+15118,Missaukee,Michigan
+150500,Monroe,Michigan
+63888,Montcalm,Michigan
+9328,Montmorency,Michigan
+173566,Muskegon,Michigan
+48980,Newaygo,Michigan
+1257584,Oakland,Michigan
+26467,Oceana,Michigan
+20997,Ogemaw,Michigan
+5720,Ontonagon,Michigan
+23460,Osceola,Michigan
+8241,Oscoda,Michigan
+24668,Otsego,Michigan
+291830,Ottawa,Michigan
+12592,Presque Isle,Michigan
+24019,Roscommon,Michigan
+190539,Saginaw,Michigan
+159128,St. Clair,Michigan
+60964,St. Joseph,Michigan
+41170,Sanilac,Michigan
+8094,Schoolcraft,Michigan
+68122,Shiawassee,Michigan
+52245,Tuscola,Michigan
+75677,Van Buren,Michigan
+367601,Washtenaw,Michigan
+1749343,Wayne,Michigan
+33631,Wexford,Michigan
+15886,Aitkin,Minnesota
+356921,Anoka,Minnesota
+34423,Becker,Minnesota
+47188,Beltrami,Minnesota
+40889,Benton,Minnesota
+4991,Big Stone,Minnesota
+67653,Blue Earth,Minnesota
+25008,Brown,Minnesota
+35871,Carlton,Minnesota
+105089,Carver,Minnesota
+29779,Cass,Minnesota
+11800,Chippewa,Minnesota
+56579,Chisago,Minnesota
+64222,Clay,Minnesota
+8818,Clearwater,Minnesota
+5463,Cook,Minnesota
+11196,Cottonwood,Minnesota
+65055,Crow Wing,Minnesota
+429021,Dakota,Minnesota
+20934,Dodge,Minnesota
+38141,Douglas,Minnesota
+13653,Faribault,Minnesota
+21067,Fillmore,Minnesota
+30281,Freeborn,Minnesota
+46340,Goodhue,Minnesota
+5972,Grant,Minnesota
+1265843,Hennepin,Minnesota
+18600,Houston,Minnesota
+21491,Hubbard,Minnesota
+40596,Isanti,Minnesota
+45130,Itasca,Minnesota
+9846,Jackson,Minnesota
+16337,Kanabec,Minnesota
+43199,Kandiyohi,Minnesota
+4298,Kittson,Minnesota
+12229,Koochiching,Minnesota
+6623,Lac qui Parle,Minnesota
+10641,Lake,Minnesota
+3740,Lake of the Woods,Minnesota
+28887,Le Sueur,Minnesota
+5639,Lincoln,Minnesota
+25474,Lyon,Minnesota
+35893,McLeod,Minnesota
+5527,Mahnomen,Minnesota
+9336,Marshall,Minnesota
+19683,Martin,Minnesota
+23222,Meeker,Minnesota
+26277,Mille Lacs,Minnesota
+33386,Morrison,Minnesota
+40062,Mower,Minnesota
+8194,Murray,Minnesota
+34274,Nicollet,Minnesota
+21629,Nobles,Minnesota
+6375,Norman,Minnesota
+158293,Olmsted,Minnesota
+58746,Otter Tail,Minnesota
+14119,Pennington,Minnesota
+29579,Pine,Minnesota
+9126,Pipestone,Minnesota
+31364,Polk,Minnesota
+11249,Pope,Minnesota
+550321,Ramsey,Minnesota
+4055,Red Lake,Minnesota
+15170,Redwood,Minnesota
+14548,Renville,Minnesota
+66972,Rice,Minnesota
+9315,Rock,Minnesota
+15165,Roseau,Minnesota
+199070,St. Louis,Minnesota
+149013,Scott,Minnesota
+97238,Sherburne,Minnesota
+14865,Sibley,Minnesota
+161075,Stearns,Minnesota
+36649,Steele,Minnesota
+9805,Stevens,Minnesota
+9266,Swift,Minnesota
+24664,Todd,Minnesota
+3259,Traverse,Minnesota
+21627,Wabasha,Minnesota
+13682,Wadena,Minnesota
+18612,Waseca,Minnesota
+262440,Washington,Minnesota
+10897,Watonwan,Minnesota
+6207,Wilkin,Minnesota
+50484,Winona,Minnesota
+138377,Wright,Minnesota
+9709,Yellow Medicine,Minnesota
+30693,Adams,Mississippi
+36953,Alcorn,Mississippi
+12297,Amite,Mississippi
+18174,Attala,Mississippi
+8259,Benton,Mississippi
+30628,Bolivar,Mississippi
+14361,Calhoun,Mississippi
+9947,Carroll,Mississippi
+17103,Chickasaw,Mississippi
+8210,Choctaw,Mississippi
+8988,Claiborne,Mississippi
+15541,Clarke,Mississippi
+19316,Clay,Mississippi
+22124,Coahoma,Mississippi
+28065,Copiah,Mississippi
+18636,Covington,Mississippi
+184945,DeSoto,Mississippi
+74897,Forrest,Mississippi
+7713,Franklin,Mississippi
+24500,George,Mississippi
+13586,Greene,Mississippi
+20758,Grenada,Mississippi
+47632,Hancock,Mississippi
+208080,Harrison,Mississippi
+231840,Hinds,Mississippi
+17010,Holmes,Mississippi
+8064,Humphreys,Mississippi
+1327,Issaquena,Mississippi
+23390,Itawamba,Mississippi
+143617,Jackson,Mississippi
+16383,Jasper,Mississippi
+6990,Jefferson,Mississippi
+11128,Jefferson Davis,Mississippi
+68098,Jones,Mississippi
+9742,Kemper,Mississippi
+54019,Lafayette,Mississippi
+63343,Lamar,Mississippi
+74125,Lauderdale,Mississippi
+12586,Lawrence,Mississippi
+22786,Leake,Mississippi
+85436,Lee,Mississippi
+28183,Leflore,Mississippi
+34153,Lincoln,Mississippi
+58595,Lowndes,Mississippi
+106272,Madison,Mississippi
+24573,Marion,Mississippi
+35294,Marshall,Mississippi
+35252,Monroe,Mississippi
+9775,Montgomery,Mississippi
+29118,Neshoba,Mississippi
+21018,Newton,Mississippi
+10417,Noxubee,Mississippi
+49587,Oktibbeha,Mississippi
+34192,Panola,Mississippi
+55535,Pearl River,Mississippi
+11973,Perry,Mississippi
+39288,Pike,Mississippi
+32174,Pontotoc,Mississippi
+25126,Prentiss,Mississippi
+6792,Quitman,Mississippi
+155271,Rankin,Mississippi
+28124,Scott,Mississippi
+4321,Sharkey,Mississippi
+26658,Simpson,Mississippi
+15916,Smith,Mississippi
+18336,Stone,Mississippi
+25110,Sunflower,Mississippi
+13809,Tallahatchie,Mississippi
+28321,Tate,Mississippi
+22015,Tippah,Mississippi
+19383,Tishomingo,Mississippi
+9632,Tunica,Mississippi
+28815,Union,Mississippi
+14286,Walthall,Mississippi
+45381,Warren,Mississippi
+43909,Washington,Mississippi
+20183,Wayne,Mississippi
+9689,Webster,Mississippi
+8630,Wilkinson,Mississippi
+17955,Winston,Mississippi
+12108,Yalobusha,Mississippi
+29690,Yazoo,Mississippi
+25343,Adair,Missouri
+17712,Andrew,Missouri
+5143,Atchison,Missouri
+25388,Audrain,Missouri
+35789,Barry,Missouri
+11754,Barton,Missouri
+16172,Bates,Missouri
+19443,Benton,Missouri
+12133,Bollinger,Missouri
+180463,Boone,Missouri
+87364,Buchanan,Missouri
+42478,Butler,Missouri
+9020,Caldwell,Missouri
+44743,Callaway,Missouri
+46305,Camden,Missouri
+78871,Cape Girardeau,Missouri
+8679,Carroll,Missouri
+5982,Carter,Missouri
+105780,Cass,Missouri
+14349,Cedar,Missouri
+7426,Chariton,Missouri
+88595,Christian,Missouri
+6797,Clark,Missouri
+249948,Clay,Missouri
+20387,Clinton,Missouri
+76745,Cole,Missouri
+17709,Cooper,Missouri
+23920,Crawford,Missouri
+7561,Dade,Missouri
+16878,Dallas,Missouri
+8278,Daviess,Missouri
+12547,DeKalb,Missouri
+15573,Dent,Missouri
+13185,Douglas,Missouri
+29131,Dunklin,Missouri
+103967,Franklin,Missouri
+14706,Gasconade,Missouri
+6571,Gentry,Missouri
+293086,Greene,Missouri
+9850,Grundy,Missouri
+8352,Harrison,Missouri
+21824,Henry,Missouri
+9544,Hickory,Missouri
+4403,Holt,Missouri
+10001,Howard,Missouri
+40117,Howell,Missouri
+10125,Iron,Missouri
+703011,Jackson,Missouri
+121328,Jasper,Missouri
+225081,Jefferson,Missouri
+54062,Johnson,Missouri
+3959,Knox,Missouri
+35723,Laclede,Missouri
+32708,Lafayette,Missouri
+38355,Lawrence,Missouri
+9776,Lewis,Missouri
+59013,Lincoln,Missouri
+11920,Linn,Missouri
+15227,Livingston,Missouri
+22837,McDonald,Missouri
+15117,Macon,Missouri
+12088,Madison,Missouri
+8697,Maries,Missouri
+28530,Marion,Missouri
+3617,Mercer,Missouri
+25619,Miller,Missouri
+13180,Mississippi,Missouri
+16132,Moniteau,Missouri
+8644,Monroe,Missouri
+11551,Montgomery,Missouri
+20627,Morgan,Missouri
+17076,New Madrid,Missouri
+58236,Newton,Missouri
+22092,Nodaway,Missouri
+10529,Oregon,Missouri
+13615,Osage,Missouri
+9174,Ozark,Missouri
+15805,Pemiscot,Missouri
+19136,Perry,Missouri
+42339,Pettis,Missouri
+44573,Phelps,Missouri
+18302,Pike,Missouri
+104418,Platte,Missouri
+32149,Polk,Missouri
+52607,Pulaski,Missouri
+4696,Putnam,Missouri
+10309,Ralls,Missouri
+24748,Randolph,Missouri
+23018,Ray,Missouri
+6270,Reynolds,Missouri
+13288,Ripley,Missouri
+402022,St. Charles,Missouri
+9397,St. Clair,Missouri
+17894,Ste. Genevieve,Missouri
+67215,St. Francois,Missouri
+994205,St. Louis,Missouri
+22761,Saline,Missouri
+4660,Schuyler,Missouri
+4902,Scotland,Missouri
+38280,Scott,Missouri
+8166,Shannon,Missouri
+5930,Shelby,Missouri
+29025,Stoddard,Missouri
+31952,Stone,Missouri
+6089,Sullivan,Missouri
+55928,Taney,Missouri
+25398,Texas,Missouri
+20563,Vernon,Missouri
+35649,Warren,Missouri
+24730,Washington,Missouri
+12873,Wayne,Missouri
+39592,Webster,Missouri
+2013,Worth,Missouri
+18289,Wright,Missouri
+300576,"St. Louis city, Missouri",
+9453,Beaverhead,Montana
+13319,Big Horn,Montana
+6681,Blaine,Montana
+6237,Broadwater,Montana
+10725,Carbon,Montana
+1252,Carter,Montana
+81366,Cascade,Montana
+5635,Chouteau,Montana
+11402,Custer,Montana
+1690,Daniels,Montana
+8613,Dawson,Montana
+9140,Deer Lodge,Montana
+2846,Fallon,Montana
+11050,Fergus,Montana
+103806,Flathead,Montana
+114434,Gallatin,Montana
+1258,Garfield,Montana
+13753,Glacier,Montana
+821,Golden Valley,Montana
+3379,Granite,Montana
+16484,Hill,Montana
+12221,Jefferson,Montana
+2007,Judith Basin,Montana
+30458,Lake,Montana
+69432,Lewis and Clark,Montana
+2337,Liberty,Montana
+19980,Lincoln,Montana
+1664,McCone,Montana
+8600,Madison,Montana
+1862,Meagher,Montana
+4397,Mineral,Montana
+119600,Missoula,Montana
+4633,Musselshell,Montana
+16606,Park,Montana
+487,Petroleum,Montana
+3954,Phillips,Montana
+5911,Pondera,Montana
+1682,Powder River,Montana
+6890,Powell,Montana
+1077,Prairie,Montana
+43806,Ravalli,Montana
+10803,Richland,Montana
+11004,Roosevelt,Montana
+8937,Rosebud,Montana
+12113,Sanders,Montana
+3309,Sheridan,Montana
+34915,Silver Bow,Montana
+9642,Stillwater,Montana
+3737,Sweet Grass,Montana
+6147,Teton,Montana
+4736,Toole,Montana
+696,Treasure,Montana
+7396,Valley,Montana
+2126,Wheatland,Montana
+969,Wibaux,Montana
+161300,Yellowstone,Montana
+31363,Adams,Nebraska
+6298,Antelope,Nebraska
+463,Arthur,Nebraska
+745,Banner,Nebraska
+465,Blaine,Nebraska
+5192,Boone,Nebraska
+10783,Box Butte,Nebraska
+1919,Boyd,Nebraska
+2955,Brown,Nebraska
+49659,Buffalo,Nebraska
+6459,Burt,Nebraska
+8016,Butler,Nebraska
+26248,Cass,Nebraska
+8402,Cedar,Nebraska
+3924,Chase,Nebraska
+5689,Cherry,Nebraska
+8910,Cheyenne,Nebraska
+6203,Clay,Nebraska
+10709,Colfax,Nebraska
+8846,Cuming,Nebraska
+10777,Custer,Nebraska
+20026,Dakota,Nebraska
+8589,Dawes,Nebraska
+23595,Dawson,Nebraska
+1794,Deuel,Nebraska
+5636,Dixon,Nebraska
+36565,Dodge,Nebraska
+571327,Douglas,Nebraska
+1693,Dundy,Nebraska
+5462,Fillmore,Nebraska
+2979,Franklin,Nebraska
+2627,Frontier,Nebraska
+4676,Furnas,Nebraska
+21513,Gage,Nebraska
+1837,Garden,Nebraska
+1969,Garfield,Nebraska
+1990,Gosper,Nebraska
+623,Grant,Nebraska
+2356,Greeley,Nebraska
+61353,Hall,Nebraska
+9324,Hamilton,Nebraska
+3380,Harlan,Nebraska
+922,Hayes,Nebraska
+2762,Hitchcock,Nebraska
+10067,Holt,Nebraska
+682,Hooker,Nebraska
+6445,Howard,Nebraska
+7046,Jefferson,Nebraska
+5071,Johnson,Nebraska
+6495,Kearney,Nebraska
+8034,Keith,Nebraska
+806,Keya Paha,Nebraska
+3632,Kimball,Nebraska
+8332,Knox,Nebraska
+319090,Lancaster,Nebraska
+34914,Lincoln,Nebraska
+748,Logan,Nebraska
+664,Loup,Nebraska
+494,McPherson,Nebraska
+35099,Madison,Nebraska
+7755,Merrick,Nebraska
+4642,Morrill,Nebraska
+3519,Nance,Nebraska
+6972,Nemaha,Nebraska
+4148,Nuckolls,Nebraska
+16012,Otoe,Nebraska
+2613,Pawnee,Nebraska
+2891,Perkins,Nebraska
+9034,Phelps,Nebraska
+7148,Pierce,Nebraska
+33470,Platte,Nebraska
+5213,Polk,Nebraska
+10724,Red Willow,Nebraska
+7865,Richardson,Nebraska
+1357,Rock,Nebraska
+14224,Saline,Nebraska
+187196,Sarpy,Nebraska
+21578,Saunders,Nebraska
+35618,Scotts Bluff,Nebraska
+17284,Seward,Nebraska
+5246,Sheridan,Nebraska
+3001,Sherman,Nebraska
+1166,Sioux,Nebraska
+5920,Stanton,Nebraska
+5003,Thayer,Nebraska
+722,Thomas,Nebraska
+7224,Thurston,Nebraska
+4158,Valley,Nebraska
+20729,Washington,Nebraska
+9385,Wayne,Nebraska
+3487,Webster,Nebraska
+783,Wheeler,Nebraska
+13679,York,Nebraska
+24909,Churchill,Nevada
+2266715,Clark,Nevada
+48905,Douglas,Nevada
+52778,Elko,Nevada
+873,Esmeralda,Nevada
+2029,Eureka,Nevada
+16831,Humboldt,Nevada
+5532,Lander,Nevada
+5183,Lincoln,Nevada
+57510,Lyon,Nevada
+4505,Mineral,Nevada
+46523,Nye,Nevada
+6725,Pershing,Nevada
+4123,Storey,Nevada
+471519,Washoe,Nevada
+9580,White Pine,Nevada
+55916,"Carson City, Nevada",
+61303,Belknap,New Hampshire
+48910,Carroll,New Hampshire
+76085,Cheshire,New Hampshire
+31563,Coos,New Hampshire
+89886,Grafton,New Hampshire
+417025,Hillsborough,New Hampshire
+151391,Merrimack,New Hampshire
+309769,Rockingham,New Hampshire
+130633,Strafford,New Hampshire
+43146,Sullivan,New Hampshire
+263670,Atlantic,New Jersey
+932202,Bergen,New Jersey
+445349,Burlington,New Jersey
+506471,Camden,New Jersey
+92039,Cape May,New Jersey
+149527,Cumberland,New Jersey
+798975,Essex,New Jersey
+291636,Gloucester,New Jersey
+672391,Hudson,New Jersey
+124371,Hunterdon,New Jersey
+367430,Mercer,New Jersey
+825062,Middlesex,New Jersey
+618795,Monmouth,New Jersey
+491845,Morris,New Jersey
+607186,Ocean,New Jersey
+501826,Passaic,New Jersey
+62385,Salem,New Jersey
+328934,Somerset,New Jersey
+140488,Sussex,New Jersey
+556341,Union,New Jersey
+105267,Warren,New Jersey
+679121,Bernalillo,New Mexico
+3527,Catron,New Mexico
+64615,Chaves,New Mexico
+26675,Cibola,New Mexico
+11941,Colfax,New Mexico
+48954,Curry,New Mexico
+1748,De Baca,New Mexico
+218195,Doña Ana,New Mexico
+58460,Eddy,New Mexico
+26998,Grant,New Mexico
+4300,Guadalupe,New Mexico
+625,Harding,New Mexico
+4198,Hidalgo,New Mexico
+71070,Lea,New Mexico
+19572,Lincoln,New Mexico
+19369,Los Alamos,New Mexico
+23709,Luna,New Mexico
+71367,McKinley,New Mexico
+4521,Mora,New Mexico
+67490,Otero,New Mexico
+8253,Quay,New Mexico
+38921,Rio Arriba,New Mexico
+18500,Roosevelt,New Mexico
+146748,Sandoval,New Mexico
+123958,San Juan,New Mexico
+27277,San Miguel,New Mexico
+150358,Santa Fe,New Mexico
+10791,Sierra,New Mexico
+16637,Socorro,New Mexico
+32723,Taos,New Mexico
+15461,Torrance,New Mexico
+4059,Union,New Mexico
+76688,Valencia,New Mexico
+305506,Albany,New York
+46091,Allegany,New York
+1418207,Bronx,New York
+190488,Broome,New York
+76117,Cattaraugus,New York
+76576,Cayuga,New York
+126903,Chautauqua,New York
+83456,Chemung,New York
+47207,Chenango,New York
+80485,Clinton,New York
+59461,Columbia,New York
+47581,Cortland,New York
+44135,Delaware,New York
+294218,Dutchess,New York
+918702,Erie,New York
+36885,Essex,New York
+50022,Franklin,New York
+53383,Fulton,New York
+57280,Genesee,New York
+47188,Greene,New York
+4416,Hamilton,New York
+61319,Herkimer,New York
+109834,Jefferson,New York
+2559903,Kings,New York
+26296,Lewis,New York
+62914,Livingston,New York
+70941,Madison,New York
+741770,Monroe,New York
+49221,Montgomery,New York
+1356924,Nassau,New York
+1628706,New York,New York
+209281,Niagara,New York
+228671,Oneida,New York
+460528,Onondaga,New York
+109777,Ontario,New York
+384940,Orange,New York
+40352,Orleans,New York
+117124,Oswego,New York
+59493,Otsego,New York
+98320,Putnam,New York
+2253858,Queens,New York
+158714,Rensselaer,New York
+476143,Richmond,New York
+325789,Rockland,New York
+107740,St. Lawrence,New York
+229863,Saratoga,New York
+155299,Schenectady,New York
+30999,Schoharie,New York
+17807,Schuyler,New York
+34016,Seneca,New York
+95379,Steuben,New York
+1476601,Suffolk,New York
+75432,Sullivan,New York
+48203,Tioga,New York
+102180,Tompkins,New York
+177573,Ulster,New York
+63944,Warren,New York
+61204,Washington,New York
+89918,Wayne,New York
+967506,Westchester,New York
+39859,Wyoming,New York
+24913,Yates,New York
+169509,Alamance,North Carolina
+37497,Alexander,North Carolina
+11137,Alleghany,North Carolina
+24446,Anson,North Carolina
+27203,Ashe,North Carolina
+17557,Avery,North Carolina
+46994,Beaufort,North Carolina
+18947,Bertie,North Carolina
+32722,Bladen,North Carolina
+142820,Brunswick,North Carolina
+261191,Buncombe,North Carolina
+90485,Burke,North Carolina
+216453,Cabarrus,North Carolina
+82178,Caldwell,North Carolina
+10867,Camden,North Carolina
+69473,Carteret,North Carolina
+22604,Caswell,North Carolina
+159551,Catawba,North Carolina
+74470,Chatham,North Carolina
+28612,Cherokee,North Carolina
+13943,Chowan,North Carolina
+11231,Clay,North Carolina
+97947,Cleveland,North Carolina
+55508,Columbus,North Carolina
+102139,Craven,North Carolina
+335509,Cumberland,North Carolina
+27763,Currituck,North Carolina
+37009,Dare,North Carolina
+167609,Davidson,North Carolina
+42846,Davie,North Carolina
+58741,Duplin,North Carolina
+321488,Durham,North Carolina
+51472,Edgecombe,North Carolina
+382295,Forsyth,North Carolina
+69685,Franklin,North Carolina
+224529,Gaston,North Carolina
+11562,Gates,North Carolina
+8441,Graham,North Carolina
+60443,Granville,North Carolina
+21069,Greene,North Carolina
+537174,Guilford,North Carolina
+50010,Halifax,North Carolina
+135976,Harnett,North Carolina
+62317,Haywood,North Carolina
+117417,Henderson,North Carolina
+23677,Hertford,North Carolina
+55234,Hoke,North Carolina
+4937,Hyde,North Carolina
+181806,Iredell,North Carolina
+43938,Jackson,North Carolina
+209339,Johnston,North Carolina
+9419,Jones,North Carolina
+61779,Lee,North Carolina
+55949,Lenoir,North Carolina
+86111,Lincoln,North Carolina
+45756,McDowell,North Carolina
+35858,Macon,North Carolina
+21755,Madison,North Carolina
+22440,Martin,North Carolina
+1110356,Mecklenburg,North Carolina
+14964,Mitchell,North Carolina
+27173,Montgomery,North Carolina
+100880,Moore,North Carolina
+94298,Nash,North Carolina
+234473,New Hanover,North Carolina
+19483,Northampton,North Carolina
+197938,Onslow,North Carolina
+148476,Orange,North Carolina
+12726,Pamlico,North Carolina
+39824,Pasquotank,North Carolina
+63060,Pender,North Carolina
+13463,Perquimans,North Carolina
+39490,Person,North Carolina
+180742,Pitt,North Carolina
+20724,Polk,North Carolina
+143667,Randolph,North Carolina
+44829,Richmond,North Carolina
+130625,Robeson,North Carolina
+91010,Rockingham,North Carolina
+142088,Rowan,North Carolina
+67029,Rutherford,North Carolina
+63531,Sampson,North Carolina
+34823,Scotland,North Carolina
+62806,Stanly,North Carolina
+45591,Stokes,North Carolina
+71783,Surry,North Carolina
+14271,Swain,North Carolina
+34385,Transylvania,North Carolina
+4016,Tyrrell,North Carolina
+239859,Union,North Carolina
+44535,Vance,North Carolina
+1111761,Wake,North Carolina
+19731,Warren,North Carolina
+11580,Washington,North Carolina
+56177,Watauga,North Carolina
+123131,Wayne,North Carolina
+68412,Wilkes,North Carolina
+81801,Wilson,North Carolina
+37667,Yadkin,North Carolina
+18069,Yancey,North Carolina
+2216,Adams,North Dakota
+10415,Barnes,North Dakota
+6832,Benson,North Dakota
+928,Billings,North Dakota
+6282,Bottineau,North Dakota
+3024,Bowman,North Dakota
+2115,Burke,North Dakota
+95626,Burleigh,North Dakota
+181923,Cass,North Dakota
+3762,Cavalier,North Dakota
+4872,Dickey,North Dakota
+2264,Divide,North Dakota
+4424,Dunn,North Dakota
+2287,Eddy,North Dakota
+3241,Emmons,North Dakota
+3210,Foster,North Dakota
+1761,Golden Valley,North Dakota
+69451,Grand Forks,North Dakota
+2274,Grant,North Dakota
+2231,Griggs,North Dakota
+2499,Hettinger,North Dakota
+2480,Kidder,North Dakota
+4046,LaMoure,North Dakota
+1850,Logan,North Dakota
+5745,McHenry,North Dakota
+2497,McIntosh,North Dakota
+15024,McKenzie,North Dakota
+9450,McLean,North Dakota
+8187,Mercer,North Dakota
+31364,Morton,North Dakota
+10545,Mountrail,North Dakota
+2879,Nelson,North Dakota
+1959,Oliver,North Dakota
+6801,Pembina,North Dakota
+3975,Pierce,North Dakota
+11519,Ramsey,North Dakota
+5218,Ransom,North Dakota
+2327,Renville,North Dakota
+16177,Richland,North Dakota
+14176,Rolette,North Dakota
+3898,Sargent,North Dakota
+1315,Sheridan,North Dakota
+4230,Sioux,North Dakota
+750,Slope,North Dakota
+31489,Stark,North Dakota
+1890,Steele,North Dakota
+20704,Stutsman,North Dakota
+2189,Towner,North Dakota
+8036,Traill,North Dakota
+10641,Walsh,North Dakota
+67641,Ward,North Dakota
+3834,Wells,North Dakota
+37589,Williams,North Dakota
+27698,Adams,Ohio
+102351,Allen,Ohio
+53484,Ashland,Ohio
+97241,Ashtabula,Ohio
+65327,Athens,Ohio
+45656,Auglaize,Ohio
+67006,Belmont,Ohio
+43432,Brown,Ohio
+383134,Butler,Ohio
+26914,Carroll,Ohio
+38885,Champaign,Ohio
+134083,Clark,Ohio
+206428,Clermont,Ohio
+41968,Clinton,Ohio
+101883,Columbiana,Ohio
+36600,Coshocton,Ohio
+41494,Crawford,Ohio
+1235072,Cuyahoga,Ohio
+51113,Darke,Ohio
+38087,Defiance,Ohio
+209177,Delaware,Ohio
+74266,Erie,Ohio
+157574,Fairfield,Ohio
+28525,Fayette,Ohio
+1316756,Franklin,Ohio
+42126,Fulton,Ohio
+29898,Gallia,Ohio
+93649,Geauga,Ohio
+168937,Greene,Ohio
+38875,Guernsey,Ohio
+817473,Hamilton,Ohio
+75783,Hancock,Ohio
+31365,Hardin,Ohio
+15040,Harrison,Ohio
+27006,Henry,Ohio
+43161,Highland,Ohio
+28264,Hocking,Ohio
+43960,Holmes,Ohio
+58266,Huron,Ohio
+32413,Jackson,Ohio
+65325,Jefferson,Ohio
+62322,Knox,Ohio
+230149,Lake,Ohio
+59463,Lawrence,Ohio
+176862,Licking,Ohio
+45672,Logan,Ohio
+309833,Lorain,Ohio
+428348,Lucas,Ohio
+44731,Madison,Ohio
+228683,Mahoning,Ohio
+65093,Marion,Ohio
+179746,Medina,Ohio
+22907,Meigs,Ohio
+41172,Mercer,Ohio
+106987,Miami,Ohio
+13654,Monroe,Ohio
+531687,Montgomery,Ohio
+14508,Morgan,Ohio
+35328,Morrow,Ohio
+86215,Muskingum,Ohio
+14424,Noble,Ohio
+40525,Ottawa,Ohio
+18672,Paulding,Ohio
+36134,Perry,Ohio
+58457,Pickaway,Ohio
+27772,Pike,Ohio
+162466,Portage,Ohio
+40882,Preble,Ohio
+33861,Putnam,Ohio
+121154,Richland,Ohio
+76666,Ross,Ohio
+58518,Sandusky,Ohio
+75314,Scioto,Ohio
+55178,Seneca,Ohio
+48590,Shelby,Ohio
+370606,Stark,Ohio
+541013,Summit,Ohio
+197974,Trumbull,Ohio
+91987,Tuscarawas,Ohio
+58988,Union,Ohio
+28275,Van Wert,Ohio
+13085,Vinton,Ohio
+234602,Warren,Ohio
+59911,Washington,Ohio
+115710,Wayne,Ohio
+36692,Williams,Ohio
+130817,Wood,Ohio
+21772,Wyandot,Ohio
+22194,Adair,Oklahoma
+5702,Alfalfa,Oklahoma
+13758,Atoka,Oklahoma
+5311,Beaver,Oklahoma
+21859,Beckham,Oklahoma
+9429,Blaine,Oklahoma
+47995,Bryan,Oklahoma
+28762,Caddo,Oklahoma
+148306,Canadian,Oklahoma
+48111,Carter,Oklahoma
+48657,Cherokee,Oklahoma
+14672,Choctaw,Oklahoma
+2137,Cimarron,Oklahoma
+284014,Cleveland,Oklahoma
+5495,Coal,Oklahoma
+120749,Comanche,Oklahoma
+5666,Cotton,Oklahoma
+14142,Craig,Oklahoma
+71522,Creek,Oklahoma
+29003,Custer,Oklahoma
+43009,Delaware,Oklahoma
+4891,Dewey,Oklahoma
+3859,Ellis,Oklahoma
+61056,Garfield,Oklahoma
+27711,Garvin,Oklahoma
+55834,Grady,Oklahoma
+4333,Grant,Oklahoma
+5712,Greer,Oklahoma
+2653,Harmon,Oklahoma
+3688,Harper,Oklahoma
+12627,Haskell,Oklahoma
+13279,Hughes,Oklahoma
+24530,Jackson,Oklahoma
+6002,Jefferson,Oklahoma
+11085,Johnston,Oklahoma
+43538,Kay,Oklahoma
+15765,Kingfisher,Oklahoma
+8708,Kiowa,Oklahoma
+10073,Latimer,Oklahoma
+49853,Le Flore,Oklahoma
+34877,Lincoln,Oklahoma
+48011,Logan,Oklahoma
+10253,Love,Oklahoma
+40474,McClain,Oklahoma
+32832,McCurtain,Oklahoma
+19596,McIntosh,Oklahoma
+7629,Major,Oklahoma
+16931,Marshall,Oklahoma
+41100,Mayes,Oklahoma
+14073,Murray,Oklahoma
+67997,Muskogee,Oklahoma
+11131,Noble,Oklahoma
+10076,Nowata,Oklahoma
+11993,Okfuskee,Oklahoma
+797434,Oklahoma,Oklahoma
+38465,Okmulgee,Oklahoma
+46963,Osage,Oklahoma
+31127,Ottawa,Oklahoma
+16376,Pawnee,Oklahoma
+81784,Payne,Oklahoma
+43654,Pittsburg,Oklahoma
+38284,Pontotoc,Oklahoma
+72592,Pottawatomie,Oklahoma
+11096,Pushmataha,Oklahoma
+3583,Roger Mills,Oklahoma
+92459,Rogers,Oklahoma
+24258,Seminole,Oklahoma
+41569,Sequoyah,Oklahoma
+43143,Stephens,Oklahoma
+19983,Texas,Oklahoma
+7250,Tillman,Oklahoma
+651552,Tulsa,Oklahoma
+81289,Wagoner,Oklahoma
+51527,Washington,Oklahoma
+10916,Washita,Oklahoma
+8793,Woods,Oklahoma
+20211,Woodward,Oklahoma
+16124,Baker,Oregon
+93053,Benton,Oregon
+418187,Clackamas,Oregon
+40224,Clatsop,Oregon
+52354,Columbia,Oregon
+64487,Coos,Oregon
+24404,Crook,Oregon
+22925,Curry,Oregon
+197692,Deschutes,Oregon
+110980,Douglas,Oregon
+1912,Gilliam,Oregon
+7199,Grant,Oregon
+7393,Harney,Oregon
+23382,Hood River,Oregon
+220944,Jackson,Oregon
+24658,Jefferson,Oregon
+87487,Josephine,Oregon
+68238,Klamath,Oregon
+7869,Lake,Oregon
+382067,Lane,Oregon
+49962,Lincoln,Oregon
+129749,Linn,Oregon
+30571,Malheur,Oregon
+347818,Marion,Oregon
+11603,Morrow,Oregon
+812855,Multnomah,Oregon
+86085,Polk,Oregon
+1780,Sherman,Oregon
+27036,Tillamook,Oregon
+77950,Umatilla,Oregon
+26835,Union,Oregon
+7208,Wallowa,Oregon
+26682,Wasco,Oregon
+601592,Washington,Oregon
+1332,Wheeler,Oregon
+107100,Yamhill,Oregon
+103009,Adams,Pennsylvania
+1216045,Allegheny,Pennsylvania
+64735,Armstrong,Pennsylvania
+163929,Beaver,Pennsylvania
+47888,Bedford,Pennsylvania
+421164,Berks,Pennsylvania
+121829,Blair,Pennsylvania
+60323,Bradford,Pennsylvania
+628270,Bucks,Pennsylvania
+187853,Butler,Pennsylvania
+130192,Cambria,Pennsylvania
+4447,Cameron,Pennsylvania
+64182,Carbon,Pennsylvania
+162385,Centre,Pennsylvania
+524989,Chester,Pennsylvania
+38438,Clarion,Pennsylvania
+79255,Clearfield,Pennsylvania
+38632,Clinton,Pennsylvania
+64964,Columbia,Pennsylvania
+84629,Crawford,Pennsylvania
+253370,Cumberland,Pennsylvania
+278299,Dauphin,Pennsylvania
+566747,Delaware,Pennsylvania
+29910,Elk,Pennsylvania
+269728,Erie,Pennsylvania
+129274,Fayette,Pennsylvania
+7247,Forest,Pennsylvania
+155027,Franklin,Pennsylvania
+14530,Fulton,Pennsylvania
+36233,Greene,Pennsylvania
+45144,Huntingdon,Pennsylvania
+84073,Indiana,Pennsylvania
+43425,Jefferson,Pennsylvania
+24763,Juniata,Pennsylvania
+209674,Lackawanna,Pennsylvania
+545724,Lancaster,Pennsylvania
+85512,Lawrence,Pennsylvania
+141793,Lebanon,Pennsylvania
+369318,Lehigh,Pennsylvania
+317417,Luzerne,Pennsylvania
+113299,Lycoming,Pennsylvania
+40625,McKean,Pennsylvania
+109424,Mercer,Pennsylvania
+46138,Mifflin,Pennsylvania
+170271,Monroe,Pennsylvania
+830915,Montgomery,Pennsylvania
+18230,Montour,Pennsylvania
+305285,Northampton,Pennsylvania
+90843,Northumberland,Pennsylvania
+46272,Perry,Pennsylvania
+1584064,Philadelphia,Pennsylvania
+55809,Pike,Pennsylvania
+16526,Potter,Pennsylvania
+141359,Schuylkill,Pennsylvania
+40372,Snyder,Pennsylvania
+73447,Somerset,Pennsylvania
+6066,Sullivan,Pennsylvania
+40328,Susquehanna,Pennsylvania
+40591,Tioga,Pennsylvania
+44923,Union,Pennsylvania
+50668,Venango,Pennsylvania
+39191,Warren,Pennsylvania
+206865,Washington,Pennsylvania
+51361,Wayne,Pennsylvania
+348899,Westmoreland,Pennsylvania
+26794,Wyoming,Pennsylvania
+449058,York,Pennsylvania
+48479,Bristol,Rhode Island
+164292,Kent,Rhode Island
+82082,Newport,Rhode Island
+638931,Providence,Rhode Island
+125577,Washington,Rhode Island
+24527,Abbeville,South Carolina
+170872,Aiken,South Carolina
+8688,Allendale,South Carolina
+202558,Anderson,South Carolina
+14066,Bamberg,South Carolina
+20866,Barnwell,South Carolina
+192122,Beaufort,South Carolina
+227907,Berkeley,South Carolina
+14553,Calhoun,South Carolina
+411406,Charleston,South Carolina
+57300,Cherokee,South Carolina
+32244,Chester,South Carolina
+45650,Chesterfield,South Carolina
+33745,Clarendon,South Carolina
+37677,Colleton,South Carolina
+66618,Darlington,South Carolina
+30479,Dillon,South Carolina
+162809,Dorchester,South Carolina
+27260,Edgefield,South Carolina
+22347,Fairfield,South Carolina
+138293,Florence,South Carolina
+62680,Georgetown,South Carolina
+523542,Greenville,South Carolina
+70811,Greenwood,South Carolina
+19222,Hampton,South Carolina
+354081,Horry,South Carolina
+30073,Jasper,South Carolina
+66551,Kershaw,South Carolina
+98012,Lancaster,South Carolina
+67493,Laurens,South Carolina
+16828,Lee,South Carolina
+298750,Lexington,South Carolina
+9463,McCormick,South Carolina
+30657,Marion,South Carolina
+26118,Marlboro,South Carolina
+38440,Newberry,South Carolina
+79546,Oconee,South Carolina
+86175,Orangeburg,South Carolina
+126884,Pickens,South Carolina
+415759,Richland,South Carolina
+20473,Saluda,South Carolina
+319785,Spartanburg,South Carolina
+106721,Sumter,South Carolina
+27316,Union,South Carolina
+30368,Williamsburg,South Carolina
+280979,York,South Carolina
+2751,Aurora,South Dakota
+18453,Beadle,South Dakota
+3365,Bennett,South Dakota
+6901,Bon Homme,South Dakota
+35077,Brookings,South Dakota
+38839,Brown,South Dakota
+5297,Brule,South Dakota
+1962,Buffalo,South Dakota
+10429,Butte,South Dakota
+1376,Campbell,South Dakota
+9292,Charles Mix,South Dakota
+3736,Clark,South Dakota
+14070,Clay,South Dakota
+28009,Codington,South Dakota
+4086,Corson,South Dakota
+8972,Custer,South Dakota
+19775,Davison,South Dakota
+5424,Day,South Dakota
+4351,Deuel,South Dakota
+5892,Dewey,South Dakota
+2921,Douglas,South Dakota
+3829,Edmunds,South Dakota
+6713,Fall River,South Dakota
+2299,Faulk,South Dakota
+7052,Grant,South Dakota
+4185,Gregory,South Dakota
+1899,Haakon,South Dakota
+6164,Hamlin,South Dakota
+3191,Hand,South Dakota
+3453,Hanson,South Dakota
+1298,Harding,South Dakota
+17526,Hughes,South Dakota
+7291,Hutchinson,South Dakota
+1301,Hyde,South Dakota
+3344,Jackson,South Dakota
+2013,Jerauld,South Dakota
+903,Jones,South Dakota
+4939,Kingsbury,South Dakota
+12797,Lake,South Dakota
+25844,Lawrence,South Dakota
+61128,Lincoln,South Dakota
+3781,Lyman,South Dakota
+5586,McCook,South Dakota
+2379,McPherson,South Dakota
+4935,Marshall,South Dakota
+28332,Meade,South Dakota
+2061,Mellette,South Dakota
+2216,Miner,South Dakota
+193134,Minnehaha,South Dakota
+6576,Moody,South Dakota
+14177,Oglala Lakota,South Dakota
+113775,Pennington,South Dakota
+2865,Perkins,South Dakota
+2153,Potter,South Dakota
+10394,Roberts,South Dakota
+2344,Sanborn,South Dakota
+6376,Spink,South Dakota
+3098,Stanley,South Dakota
+1391,Sully,South Dakota
+10177,Todd,South Dakota
+5441,Tripp,South Dakota
+8384,Turner,South Dakota
+15932,Union,South Dakota
+5435,Walworth,South Dakota
+22814,Yankton,South Dakota
+2756,Ziebach,South Dakota
+76978,Anderson,Tennessee
+49713,Bedford,Tennessee
+16160,Benton,Tennessee
+15064,Bledsoe,Tennessee
+133088,Blount,Tennessee
+108110,Bradley,Tennessee
+39842,Campbell,Tennessee
+14678,Cannon,Tennessee
+27767,Carroll,Tennessee
+56391,Carter,Tennessee
+40667,Cheatham,Tennessee
+17297,Chester,Tennessee
+31959,Claiborne,Tennessee
+7615,Clay,Tennessee
+36004,Cocke,Tennessee
+56520,Coffee,Tennessee
+14230,Crockett,Tennessee
+60520,Cumberland,Tennessee
+694144,Davidson,Tennessee
+11663,Decatur,Tennessee
+20490,DeKalb,Tennessee
+53948,Dickson,Tennessee
+37159,Dyer,Tennessee
+41133,Fayette,Tennessee
+18523,Fentress,Tennessee
+42208,Franklin,Tennessee
+49133,Gibson,Tennessee
+29464,Giles,Tennessee
+23320,Grainger,Tennessee
+69069,Greene,Tennessee
+13427,Grundy,Tennessee
+64934,Hamblen,Tennessee
+367804,Hamilton,Tennessee
+6620,Hancock,Tennessee
+25050,Hardeman,Tennessee
+25652,Hardin,Tennessee
+56786,Hawkins,Tennessee
+17304,Haywood,Tennessee
+28117,Henderson,Tennessee
+32345,Henry,Tennessee
+25178,Hickman,Tennessee
+8201,Houston,Tennessee
+18582,Humphreys,Tennessee
+11786,Jackson,Tennessee
+54495,Jefferson,Tennessee
+17788,Johnson,Tennessee
+470313,Knox,Tennessee
+7016,Lake,Tennessee
+25633,Lauderdale,Tennessee
+44142,Lawrence,Tennessee
+12268,Lewis,Tennessee
+34366,Lincoln,Tennessee
+54068,Loudon,Tennessee
+53794,McMinn,Tennessee
+25694,McNairy,Tennessee
+24602,Macon,Tennessee
+97984,Madison,Tennessee
+28907,Marion,Tennessee
+34375,Marshall,Tennessee
+96387,Maury,Tennessee
+12422,Meigs,Tennessee
+46545,Monroe,Tennessee
+208993,Montgomery,Tennessee
+6488,Moore,Tennessee
+21403,Morgan,Tennessee
+30069,Obion,Tennessee
+22241,Overton,Tennessee
+8076,Perry,Tennessee
+5048,Pickett,Tennessee
+16832,Polk,Tennessee
+80245,Putnam,Tennessee
+33167,Rhea,Tennessee
+53382,Roane,Tennessee
+71813,Robertson,Tennessee
+332285,Rutherford,Tennessee
+22068,Scott,Tennessee
+15026,Sequatchie,Tennessee
+98250,Sevier,Tennessee
+937166,Shelby,Tennessee
+20157,Smith,Tennessee
+13715,Stewart,Tennessee
+158348,Sullivan,Tennessee
+191283,Sumner,Tennessee
+61599,Tipton,Tennessee
+11284,Trousdale,Tennessee
+17883,Unicoi,Tennessee
+19972,Union,Tennessee
+5872,Van Buren,Tennessee
+41277,Warren,Tennessee
+129375,Washington,Tennessee
+16673,Wayne,Tennessee
+33328,Weakley,Tennessee
+27345,White,Tennessee
+238412,Williamson,Tennessee
+144657,Wilson,Tennessee
+57735,Anderson,Texas
+18705,Andrews,Texas
+86715,Angelina,Texas
+23510,Aransas,Texas
+8553,Archer,Texas
+1887,Armstrong,Texas
+51153,Atascosa,Texas
+30032,Austin,Texas
+7000,Bailey,Texas
+23112,Bandera,Texas
+88723,Bastrop,Texas
+3509,Baylor,Texas
+32565,Bee,Texas
+362924,Bell,Texas
+2003554,Bexar,Texas
+11931,Blanco,Texas
+654,Borden,Texas
+18685,Bosque,Texas
+93245,Bowie,Texas
+374264,Brazoria,Texas
+229211,Brazos,Texas
+9203,Brewster,Texas
+1546,Briscoe,Texas
+7093,Brooks,Texas
+37864,Brown,Texas
+18443,Burleson,Texas
+48155,Burnet,Texas
+43664,Caldwell,Texas
+21290,Calhoun,Texas
+13943,Callahan,Texas
+423163,Cameron,Texas
+13094,Camp,Texas
+5926,Carson,Texas
+30026,Cass,Texas
+7530,Castro,Texas
+43837,Chambers,Texas
+52646,Cherokee,Texas
+7306,Childress,Texas
+10471,Clay,Texas
+2853,Cochran,Texas
+3387,Coke,Texas
+8175,Coleman,Texas
+1034730,Collin,Texas
+2920,Collingsworth,Texas
+21493,Colorado,Texas
+156209,Comal,Texas
+13635,Comanche,Texas
+2726,Concho,Texas
+41257,Cooke,Texas
+75951,Coryell,Texas
+1398,Cottle,Texas
+4797,Crane,Texas
+3464,Crockett,Texas
+5737,Crosby,Texas
+2171,Culberson,Texas
+7287,Dallam,Texas
+2635516,Dallas,Texas
+12728,Dawson,Texas
+18546,Deaf Smith,Texas
+5331,Delta,Texas
+887207,Denton,Texas
+20160,DeWitt,Texas
+2211,Dickens,Texas
+10124,Dimmit,Texas
+3278,Donley,Texas
+11157,Duval,Texas
+18360,Eastland,Texas
+166223,Ector,Texas
+1932,Edwards,Texas
+184826,Ellis,Texas
+839238,El Paso,Texas
+42698,Erath,Texas
+17297,Falls,Texas
+35514,Fannin,Texas
+25346,Fayette,Texas
+3830,Fisher,Texas
+5712,Floyd,Texas
+1155,Foard,Texas
+811688,Fort Bend,Texas
+10725,Franklin,Texas
+19717,Freestone,Texas
+20306,Frio,Texas
+21492,Gaines,Texas
+342139,Galveston,Texas
+6229,Garza,Texas
+26988,Gillespie,Texas
+1409,Glasscock,Texas
+7658,Goliad,Texas
+20837,Gonzales,Texas
+21886,Gray,Texas
+136212,Grayson,Texas
+123945,Gregg,Texas
+28880,Grimes,Texas
+166847,Guadalupe,Texas
+33406,Hale,Texas
+2964,Hall,Texas
+8461,Hamilton,Texas
+5399,Hansford,Texas
+3933,Hardeman,Texas
+57602,Hardin,Texas
+4713325,Harris,Texas
+66553,Harrison,Texas
+5576,Hartley,Texas
+5658,Haskell,Texas
+230191,Hays,Texas
+3819,Hemphill,Texas
+82737,Henderson,Texas
+868707,Hidalgo,Texas
+36649,Hill,Texas
+23021,Hockley,Texas
+61643,Hood,Texas
+37084,Hopkins,Texas
+22968,Houston,Texas
+36664,Howard,Texas
+4886,Hudspeth,Texas
+98594,Hunt,Texas
+20938,Hutchinson,Texas
+1536,Irion,Texas
+8935,Jack,Texas
+14760,Jackson,Texas
+35529,Jasper,Texas
+2274,Jeff Davis,Texas
+251565,Jefferson,Texas
+5200,Jim Hogg,Texas
+40482,Jim Wells,Texas
+175817,Johnson,Texas
+20083,Jones,Texas
+15601,Karnes,Texas
+136154,Kaufman,Texas
+47431,Kendall,Texas
+404,Kenedy,Texas
+762,Kent,Texas
+52600,Kerr,Texas
+4337,Kimble,Texas
+272,King,Texas
+3667,Kinney,Texas
+30680,Kleberg,Texas
+3664,Knox,Texas
+49859,Lamar,Texas
+12893,Lamb,Texas
+21428,Lampasas,Texas
+7520,La Salle,Texas
+20154,Lavaca,Texas
+17239,Lee,Texas
+17404,Leon,Texas
+88219,Liberty,Texas
+23437,Limestone,Texas
+3233,Lipscomb,Texas
+12207,Live Oak,Texas
+21795,Llano,Texas
+169,Loving,Texas
+310569,Lubbock,Texas
+5951,Lynn,Texas
+7984,McCulloch,Texas
+256623,McLennan,Texas
+743,McMullen,Texas
+14284,Madison,Texas
+9854,Marion,Texas
+5771,Martin,Texas
+4274,Mason,Texas
+36643,Matagorda,Texas
+58722,Maverick,Texas
+51584,Medina,Texas
+2138,Menard,Texas
+176832,Midland,Texas
+24823,Milam,Texas
+4873,Mills,Texas
+8545,Mitchell,Texas
+19818,Montague,Texas
+607391,Montgomery,Texas
+20940,Moore,Texas
+12388,Morris,Texas
+1200,Motley,Texas
+65204,Nacogdoches,Texas
+50113,Navarro,Texas
+13595,Newton,Texas
+14714,Nolan,Texas
+362294,Nueces,Texas
+9836,Ochiltree,Texas
+2112,Oldham,Texas
+83396,Orange,Texas
+29189,Palo Pinto,Texas
+23194,Panola,Texas
+142878,Parker,Texas
+9605,Parmer,Texas
+15823,Pecos,Texas
+51353,Polk,Texas
+117415,Potter,Texas
+6704,Presidio,Texas
+12514,Rains,Texas
+137713,Randall,Texas
+3849,Reagan,Texas
+3452,Real,Texas
+12023,Red River,Texas
+15976,Reeves,Texas
+6948,Refugio,Texas
+854,Roberts,Texas
+17074,Robertson,Texas
+104915,Rockwall,Texas
+10264,Runnels,Texas
+54406,Rusk,Texas
+10542,Sabine,Texas
+8237,San Augustine,Texas
+28859,San Jacinto,Texas
+66730,San Patricio,Texas
+6055,San Saba,Texas
+2793,Schleicher,Texas
+16703,Scurry,Texas
+3265,Shackelford,Texas
+25274,Shelby,Texas
+3022,Sherman,Texas
+232751,Smith,Texas
+9128,Somervell,Texas
+64633,Starr,Texas
+9366,Stephens,Texas
+1291,Sterling,Texas
+1350,Stonewall,Texas
+3776,Sutton,Texas
+7397,Swisher,Texas
+2102515,Tarrant,Texas
+138034,Taylor,Texas
+776,Terrell,Texas
+12337,Terry,Texas
+1501,Throckmorton,Texas
+32750,Titus,Texas
+119200,Tom Green,Texas
+1273954,Travis,Texas
+14651,Trinity,Texas
+21672,Tyler,Texas
+41753,Upshur,Texas
+3657,Upton,Texas
+26741,Uvalde,Texas
+49025,Val Verde,Texas
+56590,Van Zandt,Texas
+92084,Victoria,Texas
+72971,Walker,Texas
+55246,Waller,Texas
+11998,Ward,Texas
+35882,Washington,Texas
+276652,Webb,Texas
+41556,Wharton,Texas
+5056,Wheeler,Texas
+132230,Wichita,Texas
+12769,Wilbarger,Texas
+21358,Willacy,Texas
+590551,Williamson,Texas
+51070,Wilson,Texas
+8010,Winkler,Texas
+69984,Wise,Texas
+45539,Wood,Texas
+8713,Yoakum,Texas
+18010,Young,Texas
+14179,Zapata,Texas
+11840,Zavala,Texas
+6710,Beaver,Utah
+56046,Box Elder,Utah
+128289,Cache,Utah
+20463,Carbon,Utah
+950,Daggett,Utah
+355481,Davis,Utah
+19938,Duchesne,Utah
+10012,Emery,Utah
+5051,Garfield,Utah
+9754,Grand,Utah
+54839,Iron,Utah
+12017,Juab,Utah
+7886,Kane,Utah
+13188,Millard,Utah
+12124,Morgan,Utah
+1479,Piute,Utah
+2483,Rich,Utah
+1160437,Salt Lake,Utah
+15308,San Juan,Utah
+30939,Sanpete,Utah
+21620,Sevier,Utah
+42145,Summit,Utah
+72259,Tooele,Utah
+35734,Uintah,Utah
+636235,Utah,Utah
+34091,Wasatch,Utah
+177556,Washington,Utah
+2711,Wayne,Utah
+260213,Weber,Utah
+36777,Addison,Vermont
+35470,Bennington,Vermont
+29993,Caledonia,Vermont
+163774,Chittenden,Vermont
+6163,Essex,Vermont
+49402,Franklin,Vermont
+7235,Grand Isle,Vermont
+25362,Lamoille,Vermont
+28892,Orange,Vermont
+27037,Orleans,Vermont
+58191,Rutland,Vermont
+58409,Washington,Vermont
+42222,Windham,Vermont
+55062,Windsor,Vermont
+32316,Accomack,Virginia
+109330,Albemarle,Virginia
+14860,Alleghany,Virginia
+13145,Amelia,Virginia
+31605,Amherst,Virginia
+15911,Appomattox,Virginia
+236842,Arlington,Virginia
+75558,Augusta,Virginia
+4147,Bath,Virginia
+78997,Bedford,Virginia
+6280,Bland,Virginia
+33419,Botetourt,Virginia
+16231,Brunswick,Virginia
+21004,Buchanan,Virginia
+17148,Buckingham,Virginia
+54885,Campbell,Virginia
+30725,Caroline,Virginia
+29791,Carroll,Virginia
+6963,Charles City,Virginia
+11880,Charlotte,Virginia
+352802,Chesterfield,Virginia
+14619,Clarke,Virginia
+5131,Craig,Virginia
+52605,Culpeper,Virginia
+9932,Cumberland,Virginia
+14318,Dickenson,Virginia
+28544,Dinwiddie,Virginia
+10953,Essex,Virginia
+1147532,Fairfax,Virginia
+71222,Fauquier,Virginia
+15749,Floyd,Virginia
+27270,Fluvanna,Virginia
+56042,Franklin,Virginia
+89313,Frederick,Virginia
+16720,Giles,Virginia
+37348,Gloucester,Virginia
+23753,Goochland,Virginia
+15550,Grayson,Virginia
+19819,Greene,Virginia
+11336,Greensville,Virginia
+33911,Halifax,Virginia
+107766,Hanover,Virginia
+330818,Henrico,Virginia
+50557,Henry,Virginia
+2190,Highland,Virginia
+37109,Isle of Wight,Virginia
+76523,James City,Virginia
+7025,King and Queen,Virginia
+26836,King George,Virginia
+17148,King William,Virginia
+10603,Lancaster,Virginia
+23423,Lee,Virginia
+413538,Loudoun,Virginia
+37591,Louisa,Virginia
+12196,Lunenburg,Virginia
+13261,Madison,Virginia
+8834,Mathews,Virginia
+30587,Mecklenburg,Virginia
+10582,Middlesex,Virginia
+98535,Montgomery,Virginia
+14930,Nelson,Virginia
+23091,New Kent,Virginia
+11710,Northampton,Virginia
+12095,Northumberland,Virginia
+15232,Nottoway,Virginia
+37051,Orange,Virginia
+23902,Page,Virginia
+17608,Patrick,Virginia
+60354,Pittsylvania,Virginia
+29652,Powhatan,Virginia
+22802,Prince Edward,Virginia
+38353,Prince George,Virginia
+470335,Prince William,Virginia
+34027,Pulaski,Virginia
+7370,Rappahannock,Virginia
+9023,Richmond,Virginia
+94186,Roanoke,Virginia
+22573,Rockbridge,Virginia
+81948,Rockingham,Virginia
+26586,Russell,Virginia
+21566,Scott,Virginia
+43616,Shenandoah,Virginia
+30104,Smyth,Virginia
+17631,Southampton,Virginia
+136215,Spotsylvania,Virginia
+152882,Stafford,Virginia
+6422,Surry,Virginia
+11159,Sussex,Virginia
+40595,Tazewell,Virginia
+40164,Warren,Virginia
+53740,Washington,Virginia
+18015,Westmoreland,Virginia
+37383,Wise,Virginia
+28684,Wythe,Virginia
+68280,York,Virginia
+159428,"Alexandria city, Virginia",
+16762,"Bristol city, Virginia",
+6478,"Buena Vista city, Virginia",
+47266,"Charlottesville city, Virginia",
+244835,"Chesapeake city, Virginia",
+17370,"Colonial Heights city, Virginia",
+5538,"Covington city, Virginia",
+40044,"Danville city, Virginia",
+5346,"Emporia city, Virginia",
+24019,"Fairfax city, Virginia",
+14617,"Falls Church city, Virginia",
+7967,"Franklin city, Virginia",
+29036,"Fredericksburg city, Virginia",
+6347,"Galax city, Virginia",
+134510,"Hampton city, Virginia",
+53016,"Harrisonburg city, Virginia",
+22529,"Hopewell city, Virginia",
+7446,"Lexington city, Virginia",
+82168,"Lynchburg city, Virginia",
+41085,"Manassas city, Virginia",
+17478,"Manassas Park city, Virginia",
+12554,"Martinsville city, Virginia",
+179225,"Newport News city, Virginia",
+242742,"Norfolk city, Virginia",
+3981,"Norton city, Virginia",
+31346,"Petersburg city, Virginia",
+12271,"Poquoson city, Virginia",
+94398,"Portsmouth city, Virginia",
+18249,"Radford city, Virginia",
+230436,"Richmond city, Virginia",
+99143,"Roanoke city, Virginia",
+25301,"Salem city, Virginia",
+24932,"Staunton city, Virginia",
+92108,"Suffolk city, Virginia",
+449974,"Virginia Beach city, Virginia",
+22630,"Waynesboro city, Virginia",
+14954,"Williamsburg city, Virginia",
+28078,"Winchester city, Virginia",
+19983,Adams,Washington
+22582,Asotin,Washington
+204390,Benton,Washington
+77200,Chelan,Washington
+77331,Clallam,Washington
+488241,Clark,Washington
+3985,Columbia,Washington
+110593,Cowlitz,Washington
+43429,Douglas,Washington
+7627,Ferry,Washington
+95222,Franklin,Washington
+2225,Garfield,Washington
+97733,Grant,Washington
+75061,Grays Harbor,Washington
+85141,Island,Washington
+32221,Jefferson,Washington
+2252782,King,Washington
+271473,Kitsap,Washington
+47935,Kittitas,Washington
+22425,Klickitat,Washington
+80707,Lewis,Washington
+10939,Lincoln,Washington
+66768,Mason,Washington
+42243,Okanogan,Washington
+22471,Pacific,Washington
+13724,Pend Oreille,Washington
+904980,Pierce,Washington
+17582,San Juan,Washington
+129205,Skagit,Washington
+12083,Skamania,Washington
+822083,Snohomish,Washington
+522798,Spokane,Washington
+45723,Stevens,Washington
+290536,Thurston,Washington
+4488,Wahkiakum,Washington
+60760,Walla Walla,Washington
+229247,Whatcom,Washington
+50104,Whitman,Washington
+250873,Yakima,Washington
+16441,Barbour,West Virginia
+119171,Berkeley,West Virginia
+21457,Boone,West Virginia
+13957,Braxton,West Virginia
+21939,Brooke,West Virginia
+91945,Cabell,West Virginia
+7109,Calhoun,West Virginia
+8508,Clay,West Virginia
+8448,Doddridge,West Virginia
+42406,Fayette,West Virginia
+7823,Gilmer,West Virginia
+11568,Grant,West Virginia
+34662,Greenbrier,West Virginia
+23175,Hampshire,West Virginia
+28810,Hancock,West Virginia
+13776,Hardy,West Virginia
+67256,Harrison,West Virginia
+28576,Jackson,West Virginia
+57146,Jefferson,West Virginia
+178124,Kanawha,West Virginia
+15907,Lewis,West Virginia
+20409,Lincoln,West Virginia
+32019,Logan,West Virginia
+17624,McDowell,West Virginia
+56072,Marion,West Virginia
+30531,Marshall,West Virginia
+26516,Mason,West Virginia
+58758,Mercer,West Virginia
+26868,Mineral,West Virginia
+23424,Mingo,West Virginia
+105612,Monongalia,West Virginia
+13275,Monroe,West Virginia
+17884,Morgan,West Virginia
+24496,Nicholas,West Virginia
+41411,Ohio,West Virginia
+6969,Pendleton,West Virginia
+7460,Pleasants,West Virginia
+8247,Pocahontas,West Virginia
+33432,Preston,West Virginia
+56450,Putnam,West Virginia
+73361,Raleigh,West Virginia
+28695,Randolph,West Virginia
+9554,Ritchie,West Virginia
+13688,Roane,West Virginia
+12573,Summers,West Virginia
+16695,Taylor,West Virginia
+6839,Tucker,West Virginia
+8591,Tyler,West Virginia
+24176,Upshur,West Virginia
+39402,Wayne,West Virginia
+8114,Webster,West Virginia
+15065,Wetzel,West Virginia
+5821,Wirt,West Virginia
+83518,Wood,West Virginia
+20394,Wyoming,West Virginia
+20220,Adams,Wisconsin
+15562,Ashland,Wisconsin
+45244,Barron,Wisconsin
+15036,Bayfield,Wisconsin
+264542,Brown,Wisconsin
+13031,Buffalo,Wisconsin
+15414,Burnett,Wisconsin
+50089,Calumet,Wisconsin
+64658,Chippewa,Wisconsin
+34774,Clark,Wisconsin
+57532,Columbia,Wisconsin
+16131,Crawford,Wisconsin
+546695,Dane,Wisconsin
+87839,Dodge,Wisconsin
+27668,Door,Wisconsin
+43150,Douglas,Wisconsin
+45368,Dunn,Wisconsin
+104646,Eau Claire,Wisconsin
+4295,Florence,Wisconsin
+103403,Fond du Lac,Wisconsin
+9004,Forest,Wisconsin
+51439,Grant,Wisconsin
+36960,Green,Wisconsin
+18913,Green Lake,Wisconsin
+23678,Iowa,Wisconsin
+5687,Iron,Wisconsin
+20643,Jackson,Wisconsin
+84769,Jefferson,Wisconsin
+26687,Juneau,Wisconsin
+169561,Kenosha,Wisconsin
+20434,Kewaunee,Wisconsin
+118016,La Crosse,Wisconsin
+16665,Lafayette,Wisconsin
+19189,Langlade,Wisconsin
+27593,Lincoln,Wisconsin
+78981,Manitowoc,Wisconsin
+135692,Marathon,Wisconsin
+40350,Marinette,Wisconsin
+15574,Marquette,Wisconsin
+4556,Menominee,Wisconsin
+945726,Milwaukee,Wisconsin
+46253,Monroe,Wisconsin
+37930,Oconto,Wisconsin
+35595,Oneida,Wisconsin
+187885,Outagamie,Wisconsin
+89221,Ozaukee,Wisconsin
+7287,Pepin,Wisconsin
+42754,Pierce,Wisconsin
+43783,Polk,Wisconsin
+70772,Portage,Wisconsin
+13351,Price,Wisconsin
+196311,Racine,Wisconsin
+17252,Richland,Wisconsin
+163354,Rock,Wisconsin
+14178,Rusk,Wisconsin
+90687,St. Croix,Wisconsin
+64442,Sauk,Wisconsin
+16558,Sawyer,Wisconsin
+40899,Shawano,Wisconsin
+115340,Sheboygan,Wisconsin
+20343,Taylor,Wisconsin
+29649,Trempealeau,Wisconsin
+30822,Vernon,Wisconsin
+22195,Vilas,Wisconsin
+103868,Walworth,Wisconsin
+15720,Washburn,Wisconsin
+136034,Washington,Wisconsin
+404198,Waukesha,Wisconsin
+50990,Waupaca,Wisconsin
+24443,Waushara,Wisconsin
+171907,Winnebago,Wisconsin
+72999,Wood,Wisconsin
+38880,Albany,Wyoming
+11790,Big Horn,Wyoming
+46341,Campbell,Wyoming
+14800,Carbon,Wyoming
+13822,Converse,Wyoming
+7584,Crook,Wyoming
+39261,Fremont,Wyoming
+13211,Goshen,Wyoming
+4413,Hot Springs,Wyoming
+8445,Johnson,Wyoming
+99500,Laramie,Wyoming
+19830,Lincoln,Wyoming
+79858,Natrona,Wyoming
+2356,Niobrara,Wyoming
+29194,Park,Wyoming
+8393,Platte,Wyoming
+30485,Sheridan,Wyoming
+9831,Sublette,Wyoming
+42343,Sweetwater,Wyoming
+23464,Teton,Wyoming
+20226,Uinta,Wyoming
+7805,Washakie,Wyoming
+6927,Weston,Wyoming
+8336817,New York City,New York

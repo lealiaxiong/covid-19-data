@@ -2,6 +2,5 @@ panel
 nbconvert
 numpy
 pandas
-xlrd
 bokeh
 colorcet

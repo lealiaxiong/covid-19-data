@@ -1,0 +1,6 @@
+panel
+nbconvert
+numpy
+pandas
+bokeh
+colorcet

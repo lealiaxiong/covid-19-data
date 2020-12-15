@@ -284,10 +284,10 @@ widgets = pn.Column(
 # Vertical layout
 pn.Column(
     pn.Row(
-        pn.Spacer(sizing_mode="stretch_both"),
+        pn.Spacer(width=200),
         add_county_widget,
         widgets,
-        pn.Spacer(sizing_mode="stretch_both")
+        pn.Spacer(width=200)
     ),
     plot,
 ).servable()

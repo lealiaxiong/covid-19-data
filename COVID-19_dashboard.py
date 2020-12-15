@@ -11,31 +11,7 @@ import bokeh.io
 
 import colorcet
 
-def import_data():
-    # Import NY Times COVID-19 data by county
-    df_counties = pd.read_csv("us-counties.csv").rename(
-        columns={"cases": "total cases", "deaths": "total deaths"}
-    )
-    df_counties["date"] = pd.to_datetime(df_counties["date"])
-
-    # Import population data
-    df_pop = pd.read_csv("2019_county_populations.csv")
-
-    # Merge COVID-19 and population data
-    df_counties = pd.merge(df_counties, df_pop)
-
-    # Make column of "county, state"
-    df_counties["county, state"] = df_counties[["county", "state"]].agg(
-        ", ".join, axis=1
-    )
-
-    # Make date index
-    df_counties["date"] = pd.to_datetime(df_counties["date"])
-    df_counties.set_index("date", inplace=True)
-
-    return df_counties
-
-df_counties = import_data()
+df_counties = pd.read_csv("clean_covid_data.csv", index_col="date", parse_dates=True)
 
 county_state_list = list(df_counties['county, state'].unique())
 
@@ -159,6 +135,7 @@ def add_new_per_day(df):
 
 yesterday = pd.to_datetime(pd.to_datetime("today").date()) - pd.DateOffset(days=1)
 two_weeks_ago = yesterday - pd.DateOffset(days=13)
+
 @pn.depends(
     counties_selector.param.value,
     measurement_selector.param.value,
@@ -284,6 +261,11 @@ widgets = pn.Column(
     #pn.Spacer(height=15),
     timespan_selector,
 )
+
+#pn.Column(
+#    title,
+#    pn.Row(add_county_widget, plot, pn.Spacer(sizing_mode='stretch_both'), widgets)
+#)
 
 pn.Column(
     title,

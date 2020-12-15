@@ -239,6 +239,17 @@ title = pn.pane.Markdown(
     """
 )
 
+# Horizontal layout
+# add_county_widget = pn.Column(
+#     pn.Spacer(height=15),
+#     autocomplete_counties,
+#     pn.Spacer(height=15),
+#     counties_selector,
+#     pn.Spacer(sizing_mode='stretch_both'),
+#     clear_button
+# )
+
+# Vertical layout
 add_county_widget = pn.Column(
     pn.Spacer(height=15),
     autocomplete_counties,
@@ -260,15 +271,17 @@ widgets = pn.Column(
     timespan_selector,
 )
 
-pn.Column(
-    title,
-    pn.Row(
-        add_county_widget,
-        widgets,
-        plot
-    )
-).servable()
+# Horizontal layout
+# pn.Column(
+#     title,
+#     pn.Row(
+#         add_county_widget,
+#         widgets,
+#         plot
+#     )
+# ).servable()
 
+# Vertical layout
 pn.Column(
     pn.Row(
         pn.Spacer(sizing_mode="stretch_both"),

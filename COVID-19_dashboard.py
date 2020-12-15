@@ -289,5 +289,9 @@ pn.Column(
         widgets,
         pn.Spacer(width=200)
     ),
-    plot,
+    pn.Row(
+        pn.Spacer(sizing_mode='stretch_both'),
+        plot,
+        pn.Spacer(sizing_mode='stretch_both'),
+    )
 ).servable()

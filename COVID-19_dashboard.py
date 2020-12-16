@@ -13,7 +13,7 @@ import colorcet
 
 df_counties = pd.read_csv("clean_covid_data.csv", index_col="date", parse_dates=True)
 
-county_state_list = list(df_counties['county, state'].unique())
+county_state_list = list(np.array(pd.read_csv("county_state_list.csv")['0']))
 
 autocomplete_counties = pn.widgets.AutocompleteInput(
     name='Counties:', 
